@@ -89,12 +89,6 @@
     return {svg: svg, squareEls: squareEls, pieceLayer: pieceLayer, markerG: markerG};
   }
 
-  function localXY(sq){
-    var file = FILES.indexOf(sq[0]);
-    var rank = parseInt(sq[1], 10) - 1;
-    return [file*SQ, (7-rank)*SQ];
-  }
-
   function setSquareHighlight(h, sq, on){
     var rect = h.squareEls[sq];
     if (!rect) return;
@@ -122,27 +116,6 @@
     }
   }
   function clearMarkers(h){ h.markerG.innerHTML = ""; }
-  function markSelected(h, sq){
-    var xy = localXY(sq);
-    var r = document.createElementNS("http://www.w3.org/2000/svg", "rect");
-    r.setAttribute("x", xy[0]+2); r.setAttribute("y", xy[1]+2);
-    r.setAttribute("width", SQ-4); r.setAttribute("height", SQ-4);
-    r.setAttribute("fill", "none"); r.setAttribute("stroke", "#1b3a1b");
-    r.setAttribute("stroke-width", "3"); r.setAttribute("rx", "3");
-    h.markerG.appendChild(r);
-  }
-  function markDest(h, sq, isCapture){
-    var xy = localXY(sq);
-    var c = document.createElementNS("http://www.w3.org/2000/svg", "circle");
-    c.setAttribute("cx", xy[0]+SQ/2); c.setAttribute("cy", xy[1]+SQ/2);
-    if (isCapture){
-      c.setAttribute("r", SQ/2 - 3); c.setAttribute("fill", "none");
-      c.setAttribute("stroke", "rgba(0,0,0,.35)"); c.setAttribute("stroke-width", "4");
-    } else {
-      c.setAttribute("r", SQ*0.14); c.setAttribute("fill", "rgba(0,0,0,.30)");
-    }
-    h.markerG.appendChild(c);
-  }
 
   /* ---- ASCII piece-list, for the "Very Difficult" no-board mode ---- */
   var PIECE_NAMES = {k: "King", q: "Queen", r: "Rook", b: "Bishop", n: "Knight", p: "Pawn"};
@@ -205,21 +178,21 @@
   function buildCardMarkup(deckId){
     return (
       '<div class="fc-scene"><div class="fc-card" id="' + deckId + '-card">' +
-        '<div class="fc-face" id="' + deckId + '-front">' +
+        '<div class="fc-face" id="' + deckId + '-front-face">' +
           '<div class="fc-tag-row"><a class="fc-tag fc-site-link" id="' + deckId + '-site" target="_blank" rel="noopener"></a><span class="fc-turn-pill" id="' + deckId + '-turnpill"></span></div>' +
           '<div class="fc-notation" id="' + deckId + '-notation" hidden></div>' +
-          '<div class="fc-board-wrap" id="' + deckId + '-frontboard"></div>' +
+          '<div class="fc-blind" id="' + deckId + '-frontboard"></div>' +
           '<div class="fc-status" id="' + deckId + '-status">&nbsp;</div>' +
           '<div class="fc-answer-row">' +
             '<input type="text" class="fc-answer-input" id="' + deckId + '-answer" placeholder="Type your mate, e.g. Qh5 Kg8 Qh7#">' +
             '<button class="fc-primary" id="' + deckId + '-check">Check</button>' +
           '</div>' +
           '<p class="fc-feedback" id="' + deckId + '-feedback">&nbsp;</p>' +
-          '<div class="fc-controls"><button id="' + deckId + '-reset">Reset position</button><button class="fc-primary" id="' + deckId + '-flip">Flip card →</button></div>' +
+          '<div class="fc-controls"><button class="fc-primary" id="' + deckId + '-flip">Flip card →</button></div>' +
           '<div class="fc-controls"><a class="fc-btn fc-primary" id="' + deckId + '-lichess" href="#" target="_blank" rel="noopener">Open on Lichess →</a></div>' +
           '<p class="fc-caption" id="' + deckId + '-caption"></p>' +
         '</div>' +
-        '<div class="fc-face fc-back">' +
+        '<div class="fc-face fc-back" id="' + deckId + '-back-face">' +
           '<div class="fc-tag-row"><a class="fc-tag fc-site-link" id="' + deckId + '-site2" target="_blank" rel="noopener"></a><span class="fc-tag" id="' + deckId + '-replayturn"></span></div>' +
           '<div class="fc-board-wrap" id="' + deckId + '-backboard"></div>' +
           '<div class="fc-movelist" id="' + deckId + '-movelist"></div>' +
@@ -290,12 +263,16 @@
     var captionEl = document.getElementById(deckId + "-caption");
     var answerInput = document.getElementById(deckId + "-answer");
     var feedbackEl = document.getElementById(deckId + "-feedback");
-    var resetBtn = document.getElementById(deckId + "-reset");
     var notationEl = document.getElementById(deckId + "-notation");
 
     pillEl.textContent = startColor + " to move";
 
-    /* ---- front ---- */
+    /* ---- front: no board at all in either mode. The whole point is to
+       solve it blindfold — "board" mode gives the real game's setup moves
+       as move-list text, "ascii" mode gives a plain piece-by-square list.
+       Either way the user types the mate; the position lives only in
+       chess.js (used by checkAnswer below), never drawn. ---- */
+    document.getElementById(deckId + "-frontboard").innerHTML = "";
     if (mode === "ascii"){
       var g0 = new Chess(startFen);
       document.getElementById(deckId + "-frontboard").innerHTML =
@@ -303,7 +280,6 @@
          '<p>' + pieceListLine(g0, "b", "Black (B)") + '.</p></div>';
       statusEl.textContent = startColor + " to move. Find the mate.";
       captionEl.textContent = "No board here — picture the position from the piece list, then type your mate below.";
-      resetBtn.style.display = "none";
       notationEl.hidden = true;
     } else {
       if (entry.setupMoves && entry.setupMoves.length){
@@ -312,97 +288,8 @@
       } else {
         notationEl.hidden = true;
       }
-      (function(){
-        var game = new Chess(startFen);
-        var h = buildBoard(document.getElementById(deckId + "-frontboard"));
-        var selected = null;
-
-        function updateStatus(){
-          pillEl.textContent = (game.turn()==="w" ? "White" : "Black") + " to move";
-          var msg = "";
-          if (game.in_checkmate()) msg = "Checkmate.";
-          else if (game.in_stalemate()) msg = "Stalemate.";
-          else if (game.insufficient_material()) msg = "Draw — insufficient material.";
-          else if (game.in_check()) msg = "Check.";
-          statusEl.textContent = msg || "Find the mate.";
-        }
-
-        function showPromoPicker(color){
-          return new Promise(function(resolve){
-            var overlay = document.createElement("div");
-            overlay.className = "fc-promo-overlay";
-            var box = document.createElement("div");
-            box.className = "fc-promo-box";
-            overlay.appendChild(box);
-            ["q","r","b","n"].forEach(function(p){
-              var btn = document.createElement("button");
-              var ch = color === "w" ? p.toUpperCase() : p;
-              var s = document.createElementNS("http://www.w3.org/2000/svg", "svg");
-              s.setAttribute("viewBox", "0 0 45 45");
-              var use = document.createElementNS("http://www.w3.org/2000/svg", "use");
-              use.setAttribute("href", "#pc-" + ch);
-              use.setAttributeNS("http://www.w3.org/1999/xlink", "href", "#pc-" + ch);
-              s.appendChild(use);
-              btn.appendChild(s);
-              btn.addEventListener("click", function(){ overlay.remove(); resolve(p); });
-              box.appendChild(btn);
-            });
-            var wrap = document.getElementById(deckId + "-frontboard");
-            wrap.style.position = "relative";
-            wrap.appendChild(overlay);
-          });
-        }
-
-        h.svg.addEventListener("click", function(ev){
-          if (game.game_over()) return;
-          var target = ev.target.closest ? ev.target.closest("[data-sq]") : null;
-          if (!target) return;
-          var sq = target.dataset.sq;
-          var piece = game.get(sq);
-
-          if (selected){
-            var moves = game.moves({square: selected, verbose: true});
-            var match = moves.filter(function(m){ return m.to === sq; });
-            if (match.length){
-              var mv = match[0];
-              var finish = function(promo){
-                game.move({from: selected, to: sq, promotion: promo});
-                showLastMove(h, selected, sq);
-                selected = null;
-                clearMarkers(h);
-                renderPieces(h, game);
-                updateStatus();
-              };
-              if (mv.flags.indexOf("p") !== -1) showPromoPicker(mv.color).then(finish);
-              else finish();
-              return;
-            }
-          }
-          clearMarkers(h);
-          if (piece && piece.color === game.turn()){
-            selected = sq;
-            markSelected(h, sq);
-            game.moves({square: sq, verbose: true}).forEach(function(m){
-              markDest(h, m.to, !!game.get(m.to) || m.flags.indexOf("e") !== -1);
-            });
-          } else {
-            selected = null;
-          }
-        });
-
-        resetBtn.addEventListener("click", function(){
-          game.load(startFen);
-          selected = null;
-          clearMarkers(h);
-          clearLastMove(h);
-          renderPieces(h, game);
-          updateStatus();
-        });
-
-        renderPieces(h, game);
-        updateStatus();
-      })();
-      captionEl.textContent = "Click a piece, then a highlighted square, to try it here — or type your answer below.";
+      statusEl.textContent = startColor + " to move. Find the mate.";
+      captionEl.textContent = "No board here — play through the moves above in your head, then type your mate below.";
     }
 
     document.getElementById(deckId + "-lichess").href =
@@ -481,7 +368,36 @@
         setupDeck(container, next);
       }
     });
+
+    syncCardHeight(deckId);
   }
+
+  /* Each face sizes itself to its own content (see .fc-face CSS: top/left
+     only, no stretch to fill the parent), since the no-board front face is
+     much shorter than the back face's board replay. This measures both
+     and sets an explicit height on .fc-card so neither face is clipped
+     and the card doesn't show a big empty gap under the shorter face. */
+  function syncCardHeight(deckId){
+    var cardEl = document.getElementById(deckId + "-card");
+    var frontEl = document.getElementById(deckId + "-front-face");
+    var backEl = document.getElementById(deckId + "-back-face");
+    if (!cardEl || !frontEl || !backEl) return;
+    requestAnimationFrame(function(){
+      var h = Math.max(frontEl.offsetHeight, backEl.offsetHeight);
+      if (h > 0) cardEl.style.height = h + "px";
+    });
+  }
+
+  var RESIZE_DEBOUNCE_MS = 150;
+  var resizeTimer = null;
+  window.addEventListener("resize", function(){
+    if (resizeTimer) clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(function(){
+      document.querySelectorAll(".mate-deck[data-category]").forEach(function(container){
+        if (container.id) syncCardHeight(container.id);
+      });
+    }, RESIZE_DEBOUNCE_MS);
+  });
 
   function initDeckContainer(container){
     var cat = container.dataset.category;

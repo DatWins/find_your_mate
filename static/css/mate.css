@@ -40,21 +40,26 @@
 .fc-scene { perspective: 1600px; }
 .fc-card {
   position: relative;
-  min-height: 1200px;
-  transition: transform .6s cubic-bezier(.4,.1,.2,1);
+  min-height: 200px;
+  transition: transform .6s cubic-bezier(.4,.1,.2,1), height .25s ease;
   transform-style: preserve-3d;
 }
 .fc-card.flipped { transform: rotateY(180deg); }
+/* Each face is sized by its own content (top/left only, no bottom/right),
+   so the no-board front face doesn't inherit the taller back face's
+   height; JS measures both and sets an explicit height on .fc-card. */
 .fc-face {
-  position: absolute; inset: 0; width: 100%; min-height: 1200px;
+  position: absolute; top: 0; left: 0; width: 100%; min-height: 200px;
   backface-visibility: hidden;
   background: var(--fc-panel);
   border: 2px solid var(--fc-rule);
   border-radius: 14px;
   padding: 20px;
+  box-sizing: border-box;
   display: flex; flex-direction: column; gap: 14px;
   box-shadow: 0 10px 28px -12px rgba(0,0,0,.3);
 }
+.fc-blind:empty { display: none; }
 .fc-face.fc-back { transform: rotateY(180deg); }
 .fc-tag-row { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; }
 .fc-tag { font-size: 1.15rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; color: var(--fc-ink); }
@@ -67,22 +72,22 @@
 .fc-notation {
   border: 2px dashed var(--fc-rule);
   border-radius: 10px;
-  padding: 16px 18px;
+  padding: 24px 22px;
   background: #fff;
   font-family: ui-monospace, monospace;
-  font-size: 1.4rem;
+  font-size: 1.95rem;
   font-weight: 700;
-  line-height: 1.9;
+  line-height: 2.15;
   text-align: center;
   letter-spacing: .02em;
 }
 .fc-ascii {
   border: 2px dashed var(--fc-rule);
   border-radius: 10px;
-  padding: 20px 22px;
+  padding: 26px 24px;
   background: #fff;
 }
-.fc-ascii p { margin: 0 0 1em 0; font-size: 1.5rem; line-height: 1.7; }
+.fc-ascii p { margin: 0 0 1.1em 0; font-size: 1.95rem; line-height: 1.75; }
 .fc-ascii p:last-child { margin-bottom: 0; }
 .fc-status { min-height: 1.4em; text-align: center; font-size: 1.5rem; color: var(--fc-good); font-weight: 700; }
 .fc-answer-row { display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; }
@@ -107,13 +112,3 @@
 .fc-movelist { font-family: ui-monospace, monospace; font-size: 1.5rem; font-weight: 700; line-height: 1.9; text-align: center; letter-spacing: .02em; color: var(--fc-ink); }
 .fc-movelist .fc-cur { background: var(--fc-accent); color: var(--fc-accent-ink); border-radius: 4px; padding: 1px 8px; }
 .fc-meta { font-size: 1.25rem; font-weight: 700; color: var(--fc-ink); text-align: center; line-height: 1.6; margin: 0; }
-.fc-promo-overlay { position: absolute; inset: 0; background: rgba(0,0,0,.45); display: flex; align-items: center; justify-content: center; z-index: 5; border-radius: 10px; }
-.fc-promo-box { background: var(--fc-panel); border: 2px solid var(--fc-rule); border-radius: 10px; padding: 10px; display: flex; gap: 8px; }
-.fc-promo-box button { padding: 6px; }
-.fc-promo-box svg { width: 40px; height: 40px; display: block; }
-@media (max-width: 680px) {
-  .fc-card, .fc-face { min-height: 1140px; }
-}
-@media (max-width: 480px) {
-  .fc-card, .fc-face { min-height: 1080px; }
-}
