@@ -1,0 +1,2252 @@
+[
+  {
+    "site": "https://lichess.org/02fSeI3W",
+    "event": "Rated Bullet game",
+    "white": "kessb",
+    "black": "FelixLucan",
+    "whiteElo": 841,
+    "blackElo": 905,
+    "startFen": "r2qk2r/ppp2ppp/2np4/2bnp3/2B1P3/3P1Q2/PPP2PPP/R1B2RK1 w kq - 0 9",
+    "moves": [
+      "Bxd5",
+      "Nb4",
+      "Qxf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/0TYJINbq",
+    "event": "Rated Rapid game",
+    "white": "ndonzivictor1",
+    "black": "ti5jrur",
+    "whiteElo": 1068,
+    "blackElo": 1079,
+    "startFen": "r1bq1rk1/ppp2ppp/2np4/2b1p1N1/2B5/2P5/PPP2PPP/R1BQR1K1 w - - 2 9",
+    "moves": [
+      "Qd3",
+      "h6",
+      "Qh7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/0fHw8Acx",
+    "event": "Rated Blitz game",
+    "white": "arsa69",
+    "black": "GarboMarble",
+    "whiteElo": 1726,
+    "blackElo": 1718,
+    "startFen": "r1b1kb1r/pp3ppp/1qn1p3/3pPn2/1p1P1P2/P5PP/2P1N3/RNBQKB1R b KQkq - 0 9",
+    "moves": [
+      "Ncxd4",
+      "g4",
+      "Nf3#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/12nQu260",
+    "event": "Rated Bullet game",
+    "white": "SSJ-Antoine",
+    "black": "Kebalpp",
+    "whiteElo": 900,
+    "blackElo": 1059,
+    "startFen": "r3kbnr/ppp2ppp/5q2/3Pp3/2B5/3Q1n2/PPPP1K1P/RNB4R b kq - 1 9",
+    "moves": [
+      "Nd4+",
+      "Ke3",
+      "Qf3#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/1YgJch1m",
+    "event": "Rated Bullet game",
+    "white": "CatoLello",
+    "black": "anthony168",
+    "whiteElo": 1479,
+    "blackElo": 1434,
+    "startFen": "r1b1k2N/pppp2pp/2n5/4p3/2B1n2q/5Q2/PPPP2PP/RNB2K1R b q - 0 9",
+    "moves": [
+      "Nd4",
+      "Qh3",
+      "Qf2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/1tA91rCm",
+    "event": "Rated Blitz tournament https://lichess.org/tournament/e2mLECxC",
+    "white": "peman",
+    "black": "SerenityPigeon",
+    "whiteElo": 1933,
+    "blackElo": 1785,
+    "startFen": "rn2kb1r/p4ppp/2p1pn2/7q/3P2b1/2N2N2/PPP1BPPP/R1BQ1RK1 b kq - 0 9",
+    "moves": [
+      "Bd6",
+      "Ne1",
+      "Qxh2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/1x3cZLs2",
+    "event": "Rated Blitz game",
+    "white": "bembemito",
+    "black": "Poochekchoo",
+    "whiteElo": 1050,
+    "blackElo": 1051,
+    "startFen": "r1b1k1nr/ppp2ppp/1b1p1q2/5N2/2B1P3/2N5/PP3PPP/R1BQK2R b KQkq - 4 9",
+    "moves": [
+      "Ne7",
+      "Nxe7",
+      "Qxf2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/2yWurFjv",
+    "event": "Rated Rapid game",
+    "white": "Xoiek",
+    "black": "Danpece",
+    "whiteElo": 1263,
+    "blackElo": 1375,
+    "startFen": "r3kbnr/p1pq1ppp/1p1p4/8/3QP3/2N5/PPP2PPP/R1B1K2R w KQkq - 0 9",
+    "moves": [
+      "Qd5",
+      "O-O-O",
+      "Qa8#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/3P0wo2eP",
+    "event": "Rated Blitz game",
+    "white": "capafirov58",
+    "black": "Okostojas",
+    "whiteElo": 1298,
+    "blackElo": 1288,
+    "startFen": "r2qk2r/pppb2pp/2nbpp2/3p1n2/3P2P1/P1P1BN1P/1P1NPP2/R2QKB1R b KQkq - 0 9",
+    "moves": [
+      "Nxe3",
+      "fxe3",
+      "Bg3#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/3rW9z0Ww",
+    "event": "Rated Rapid game",
+    "white": "masonthepopl",
+    "black": "BotaOrazova",
+    "whiteElo": 754,
+    "blackElo": 777,
+    "startFen": "rnb1kbnr/2pp1p1p/1p6/p3p3/2B1P2q/5Q2/PPPP1P1N/RNB1K2R w KQkq - 0 9",
+    "moves": [
+      "Qxf7+",
+      "Kd8",
+      "Qxf8#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/48LARobW",
+    "event": "Rated Rapid tournament https://lichess.org/tournament/Ok49QDc0",
+    "white": "Soccer000",
+    "black": "AyanLovesChess126784",
+    "whiteElo": 1134,
+    "blackElo": 580,
+    "startFen": "r1bq1k1r/ppppbp1p/5Np1/4Q3/2Bn4/8/PPPP1PPP/RNB1K2R w KQ - 3 9",
+    "moves": [
+      "Nxd7+",
+      "Bxd7",
+      "Qxh8#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/4MGVM8CH",
+    "event": "Rated Rapid game",
+    "white": "Aarushmarupaka15",
+    "black": "AndiShamandi",
+    "whiteElo": 1110,
+    "blackElo": 1022,
+    "startFen": "r1bqkbnr/2p2ppp/p7/4N3/3p4/2NP4/PPP2PPP/R1BQK2R w KQkq - 0 9",
+    "moves": [
+      "Qh5",
+      "Nf6",
+      "Qxf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/56wYPMQa",
+    "event": "Rated Bullet game",
+    "white": "Abdullrahman17",
+    "black": "double_mirmak",
+    "whiteElo": 2365,
+    "blackElo": 2390,
+    "startFen": "r1bqk2r/ppp2pb1/3p1npp/4n3/5B1P/2N5/PPPQPPP1/2KR1BNR w kq - 0 9",
+    "moves": [
+      "Bxe5",
+      "dxe5",
+      "Qxd8#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/5PIYkj4B",
+    "event": "Rated Bullet game",
+    "white": "just-a-pawn-to-win",
+    "black": "TheGaelicFool",
+    "whiteElo": 1377,
+    "blackElo": 1436,
+    "startFen": "rn1qkbnr/pp3ppp/8/2P5/2B1b3/8/PPP2PPP/R1BQK1NR w KQkq - 0 9",
+    "moves": [
+      "Qh5",
+      "Bxg2",
+      "Qxf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/69nHKmcf",
+    "event": "Rated Rapid game",
+    "white": "fedor753753",
+    "black": "DBiagioM",
+    "whiteElo": 960,
+    "blackElo": 973,
+    "startFen": "rnb1k1nr/pppp2pp/1b3p2/7B/5P2/2P5/PP1P1NqP/RNBQK2R b KQkq - 1 9",
+    "moves": [
+      "g6",
+      "Bf3",
+      "Qxf2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/7FmuPqZf",
+    "event": "Rated Blitz game",
+    "white": "iseerabbits",
+    "black": "Pickle_Baiter",
+    "whiteElo": 1984,
+    "blackElo": 1951,
+    "startFen": "rn1q1bkr/pp2p1pp/2p2n2/4N3/6b1/8/PPPPQPPP/R1B1KB1R w KQ - 2 9",
+    "moves": [
+      "Nxg4",
+      "e6",
+      "Qxe6#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/8j4Lbbzx",
+    "event": "Rated Blitz game",
+    "white": "BreinTomas",
+    "black": "KAYb3",
+    "whiteElo": 1487,
+    "blackElo": 1411,
+    "startFen": "rnb1kb1r/pp3ppp/8/3P3n/3P3q/6P1/PP1NP2P/R1BQKBNR b KQkq - 0 9",
+    "moves": [
+      "Nxg3",
+      "hxg3",
+      "Qxg3#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/8ks4xXeW",
+    "event": "Rated Classical game",
+    "white": "MrNobodyrules",
+    "black": "Aleks040460",
+    "whiteElo": 1643,
+    "blackElo": 1689,
+    "startFen": "r1bq1rk1/pppp1ppp/8/2b1n1N1/2Bp2Q1/8/PPP2PPP/RNB2RK1 w - - 0 9",
+    "moves": [
+      "Qh5",
+      "Nxc4",
+      "Qxh7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/98jV853q",
+    "event": "Rated Blitz game",
+    "white": "mohamedsafa",
+    "black": "LevGrandmaster",
+    "whiteElo": 1389,
+    "blackElo": 1302,
+    "startFen": "r1bq2kr/pppp2pp/2nb4/3n2N1/2Q1P3/8/PPP2PPP/RNB1K2R w KQ - 3 9",
+    "moves": [
+      "Qxd5+",
+      "Kf8",
+      "Qf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/9VvtfgqS",
+    "event": "Rated Blitz game",
+    "white": "Geradot161",
+    "black": "azharovin",
+    "whiteElo": 837,
+    "blackElo": 855,
+    "startFen": "r2qk2r/ppp2ppp/2n5/2bbp1N1/8/5Q2/PPPP1PPP/RNB2RK1 w kq - 0 9",
+    "moves": [
+      "Qf5",
+      "O-O",
+      "Qxh7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/9gh9lDWg",
+    "event": "Rated Bullet game",
+    "white": "avikagupta123",
+    "black": "javadscada",
+    "whiteElo": 838,
+    "blackElo": 905,
+    "startFen": "rn3rk1/pbpq1p1p/1p4pb/3n4/2P5/8/PP2PPPP/R3KBNR b KQ - 0 9",
+    "moves": [
+      "Nb4",
+      "b3",
+      "Nc2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/AB5uz6xk",
+    "event": "Rated Rapid tournament https://lichess.org/tournament/T6EAFTzd",
+    "white": "SouryaDutta",
+    "black": "LCHVRL_58",
+    "whiteElo": 1414,
+    "blackElo": 1453,
+    "startFen": "rnbqk2r/1pp2ppp/1p1p4/8/2BNP1n1/8/PPP2PPP/R1BQK2R w KQkq - 0 9",
+    "moves": [
+      "Qf3",
+      "c5",
+      "Qxf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/AJ9OpTNp",
+    "event": "Rated Rapid game",
+    "white": "Tashay_pilli",
+    "black": "hashem1919",
+    "whiteElo": 720,
+    "blackElo": 709,
+    "startFen": "rnb1k2r/pppp2Qp/5pp1/4p1B1/1bB1P3/3P4/PPPN1qPP/R2K2NR b kq - 1 9",
+    "moves": [
+      "fxg5",
+      "Nh3",
+      "Qxd2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/AXsNhegl",
+    "event": "Rated Blitz game",
+    "white": "XochyOlivie",
+    "black": "via_sorto",
+    "whiteElo": 935,
+    "blackElo": 989,
+    "startFen": "r1bqkb1r/pp1p1p1p/7p/2p2N1Q/2n1P3/2N5/PPP2PPP/R3KB1R w KQkq - 2 9",
+    "moves": [
+      "Bxc4",
+      "a6",
+      "Qxf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/Ar8F7MzJ",
+    "event": "Rated Blitz game",
+    "white": "sksicocksjsns",
+    "black": "Aylin139234",
+    "whiteElo": 813,
+    "blackElo": 811,
+    "startFen": "r1b2bkr/ppp3pp/2n5/3qp3/2B5/8/PPPP1PPP/RNB1K2R w KQ - 0 9",
+    "moves": [
+      "Bxd5+",
+      "Be6",
+      "Bxe6#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/BobrmL1H",
+    "event": "Rated Blitz game",
+    "white": "Kafka_Franz_29",
+    "black": "Arizvhan",
+    "whiteElo": 1461,
+    "blackElo": 1482,
+    "startFen": "r1bqk1nr/p1pp1pp1/2p4p/2b1P3/2B5/8/PPP2PPP/RNBQ1RK1 w kq - 1 9",
+    "moves": [
+      "Qf3",
+      "Ne7",
+      "Qxf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/C2rVXU4u",
+    "event": "Rated Blitz game",
+    "white": "Elusive_17",
+    "black": "mati2007hcxxjbcc",
+    "whiteElo": 1050,
+    "blackElo": 1063,
+    "startFen": "rnbqk1r1/ppppb2Q/3n1pN1/8/2B5/8/PPPP1PPP/RNB1K2R w KQq - 1 9",
+    "moves": [
+      "Qxg8+",
+      "Bf8",
+      "Qxf8#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/CTsBvkFO",
+    "event": "Rated Bullet game",
+    "white": "seymourlar",
+    "black": "Santasquatch",
+    "whiteElo": 894,
+    "blackElo": 997,
+    "startFen": "rn1qk2r/ppp2ppp/8/2bBP3/4n3/2N2b2/PPP2PPP/R1BQ1RK1 w kq - 0 9",
+    "moves": [
+      "Qxf3",
+      "Nxc3",
+      "Qxf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/CqORY5le",
+    "event": "Rated Blitz game",
+    "white": "NevmerV",
+    "black": "Wieslawalama",
+    "whiteElo": 820,
+    "blackElo": 892,
+    "startFen": "r1bq1rk1/ppp2ppp/2np4/2b4Q/4P3/3B4/PPPP1PPP/RNB1K2R w KQ - 2 9",
+    "moves": [
+      "e5",
+      "Nxe5",
+      "Qxh7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/E8BvPEUx",
+    "event": "Rated Bullet game",
+    "white": "kushghost420",
+    "black": "aquilaneracs",
+    "whiteElo": 1692,
+    "blackElo": 1666,
+    "startFen": "r1bqk2r/ppp1bppp/5n2/4p3/2BP4/5Q2/PPP3PP/RNB1K2R w KQkq - 0 9",
+    "moves": [
+      "dxe5",
+      "Nd7",
+      "Qxf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/ELJtvhqd",
+    "event": "Rated Blitz game",
+    "white": "Rodchess-training",
+    "black": "younes20emt",
+    "whiteElo": 1853,
+    "blackElo": 1741,
+    "startFen": "rn1qkbnr/pp2p1p1/2p1p2p/3p3P/3P2P1/3b4/PPP2P2/RNBQK1NR w KQkq - 0 9",
+    "moves": [
+      "Qxd3",
+      "Nd7",
+      "Qg6#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/EdcbIsdo",
+    "event": "Rated Rapid game",
+    "white": "Adegildes",
+    "black": "rudilasker",
+    "whiteElo": 1974,
+    "blackElo": 1983,
+    "startFen": "r3kbnr/pp2nppp/2pq4/3PNb2/Q1B5/4P3/PP3PPP/RNB1K2R w KQkq - 0 9",
+    "moves": [
+      "dxc6",
+      "Rd8",
+      "Bxf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/Ekz5qjdJ",
+    "event": "Rated UltraBullet tournament https://lichess.org/tournament/hUDQiSNW",
+    "white": "tarirozhou563",
+    "black": "karen8900",
+    "whiteElo": 1346,
+    "blackElo": 1143,
+    "startFen": "rnbqkb1r/ppp3pp/3p1pN1/7Q/2B5/8/PPPP1RPP/RNB3K1 w - - 4 9",
+    "moves": [
+      "Nxh8+",
+      "Ke7",
+      "Qf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/FsJUfbik",
+    "event": "Rated Rapid game",
+    "white": "El_Cuerpo",
+    "black": "MRTN_BLN",
+    "whiteElo": 1194,
+    "blackElo": 1238,
+    "startFen": "rnbk1b1r/pppp1Qpp/3n4/q7/2BP4/2P5/PP3PPP/RNB1K2R w KQ - 1 9",
+    "moves": [
+      "Bg5+",
+      "Be7",
+      "Qxe7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/G71IeTtF",
+    "event": "Rated Classical game",
+    "white": "Pregoxadrez",
+    "black": "cmjose",
+    "whiteElo": 1662,
+    "blackElo": 1346,
+    "startFen": "r1bqkb1r/2p2ppp/p1p1p3/3p4/3P4/2P1PQ1N/P1P2PPP/R1B1K2R w KQkq - 0 9",
+    "moves": [
+      "Ng5",
+      "c5",
+      "Qxf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/H6jFnc1M",
+    "event": "Rated Rapid game",
+    "white": "TimSny",
+    "black": "alabzz",
+    "whiteElo": 1302,
+    "blackElo": 1191,
+    "startFen": "r1b1kb1N/ppp3pp/5n2/4p3/2Bn4/8/PPPP1PqP/RNBQKR2 b Qq - 1 9",
+    "moves": [
+      "Qe4+",
+      "Be2",
+      "Nf3#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/HOPsOXTD",
+    "event": "Rated Blitz game",
+    "white": "Matin_gambit",
+    "black": "valentin_tulentsov",
+    "whiteElo": 1213,
+    "blackElo": 1296,
+    "startFen": "rn1qkb1r/pp2p1p1/2p2n1p/8/2BP2b1/5N2/PPP2PPP/R1BQK2R w KQ - 4 9",
+    "moves": [
+      "Ne5",
+      "Bxd1",
+      "Bf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/HiH6ZauM",
+    "event": "Rated Rapid game",
+    "white": "VARMAT",
+    "black": "ObsidianGirl",
+    "whiteElo": 1139,
+    "blackElo": 1154,
+    "startFen": "r2qk1nr/ppp2pp1/2npb3/2b1p1Np/4P3/P1NP3P/1PPBBPP1/R2QK2R b KQkq - 2 9",
+    "moves": [
+      "Qf6",
+      "h4",
+      "Qxf2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/HrCCpl7v",
+    "event": "Rated Blitz game",
+    "white": "Supraz",
+    "black": "gentlChess",
+    "whiteElo": 1468,
+    "blackElo": 1465,
+    "startFen": "r1bqk2r/p1ppbppp/1np5/4P3/8/1B6/PPP2PPP/RNBQK2R w KQkq - 5 9",
+    "moves": [
+      "Qf3",
+      "Ba6",
+      "Qxf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/IyOY41vE",
+    "event": "Rated Bullet game",
+    "white": "BILTO438",
+    "black": "llMoonCakell",
+    "whiteElo": 728,
+    "blackElo": 781,
+    "startFen": "rnb2rk1/pp1p1ppp/1q3n2/3p4/8/1P1N4/P1P1PPPP/R2QKBNR b KQ - 0 9",
+    "moves": [
+      "Ne4",
+      "Ne5",
+      "Qxf2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/JMyxadtq",
+    "event": "Rated Rapid game",
+    "white": "pravan05",
+    "black": "TBeastmode",
+    "whiteElo": 985,
+    "blackElo": 1014,
+    "startFen": "r1bqkb1r/2p2p1p/p1np1np1/4p3/1p2P1P1/1BP2Q1P/PP1P1P2/RNB1K1NR w KQkq - 0 9",
+    "moves": [
+      "g5",
+      "Nh5",
+      "Qxf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/K0AblxsD",
+    "event": "Rated Bullet game",
+    "white": "GEN_XY",
+    "black": "jayaprakash2312",
+    "whiteElo": 1317,
+    "blackElo": 1282,
+    "startFen": "r1bq1rk1/pppp1pp1/1bn2B1p/8/2B1P3/1NN5/PPP2PPP/R2QK2R b KQ - 0 9",
+    "moves": [
+      "Qxf6",
+      "Nd5",
+      "Qxf2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/KKiwJ1xF",
+    "event": "Rated Rapid game",
+    "white": "Undertru",
+    "black": "boliebet",
+    "whiteElo": 1746,
+    "blackElo": 1094,
+    "startFen": "rn1qkb1r/pp3ppp/2p2n2/6N1/2B1p3/5Q1P/PPPP1PP1/R1B1K2R w KQkq - 0 9",
+    "moves": [
+      "Qf5",
+      "Nd5",
+      "Qxf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/LJQHJmAo",
+    "event": "Rated Blitz game",
+    "white": "ceskr10",
+    "black": "clau97170",
+    "whiteElo": 1033,
+    "blackElo": 1071,
+    "startFen": "rn2k1nr/pbp2ppp/1p1bp3/6Bq/3P4/2NB1N2/PPP2PPP/R2Q1RK1 b kq - 1 9",
+    "moves": [
+      "Bxf3",
+      "Qxf3",
+      "Qxh2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/Lst7i6Ab",
+    "event": "Rated Rapid game",
+    "white": "Petekje",
+    "black": "YakYolla",
+    "whiteElo": 1739,
+    "blackElo": 1635,
+    "startFen": "rnbqk1nr/ppp1b3/7p/3pN1p1/2BPPp2/8/PPP3P1/RNBQK2R w KQkq - 0 9",
+    "moves": [
+      "Qh5+",
+      "Kf8",
+      "Qf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/M4CJAxoB",
+    "event": "Rated Bullet game",
+    "white": "ricardo20chamba",
+    "black": "useresu",
+    "whiteElo": 1615,
+    "blackElo": 1563,
+    "startFen": "r1b1kb1r/ppp1qppp/5n2/6B1/4B3/5Q2/PPP2PPP/RN3RK1 b kq - 0 9",
+    "moves": [
+      "Qxe4",
+      "Re1",
+      "Qxe1#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/M8BKdTpo",
+    "event": "Rated Blitz game",
+    "white": "Nervoza2026",
+    "black": "rmpoole1302",
+    "whiteElo": 1404,
+    "blackElo": 1351,
+    "startFen": "rnbqk2r/pp4pp/2p2p2/3pp3/4P1n1/1BNP4/PPPB2PP/R2QK1NR b kq - 1 9",
+    "moves": [
+      "Qb6",
+      "h3",
+      "Qf2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/MnaLHyLk",
+    "event": "Rated Blitz game",
+    "white": "Mahmoudalsate",
+    "black": "lewishawkins",
+    "whiteElo": 995,
+    "blackElo": 1052,
+    "startFen": "rnb1k2r/ppppqppp/8/4P1B1/2B3n1/2P2N2/P4PPP/R2QK2R b KQkq - 4 9",
+    "moves": [
+      "Qc5",
+      "e6",
+      "Qxf2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/NhOSDGvl",
+    "event": "Rated Classical game",
+    "white": "Mohamad_hajivand",
+    "black": "Ahmedadam30",
+    "whiteElo": 1555,
+    "blackElo": 1571,
+    "startFen": "r3kbnr/ppp1pppp/2n3q1/3P1b2/8/2N1BN2/PPP1BPPP/R2QK2R w KQkq - 1 9",
+    "moves": [
+      "dxc6",
+      "Bxc2",
+      "Qd7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/ObqtNwAC",
+    "event": "Rated Rapid game",
+    "white": "Tomtomclube",
+    "black": "khoibakhiv2",
+    "whiteElo": 1195,
+    "blackElo": 1276,
+    "startFen": "rn1qkb1r/pp3ppp/8/3pp3/2B5/5Q2/PPPP1PPP/R1B2RK1 w kq - 0 9",
+    "moves": [
+      "Bxd5",
+      "Bc5",
+      "Qxf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/PVEkI9gt",
+    "event": "Rated Rapid game",
+    "white": "ghfkjfkah",
+    "black": "Olier17",
+    "whiteElo": 1098,
+    "blackElo": 1092,
+    "startFen": "r1b2bkr/ppp3pp/2n5/3qp3/2B5/8/PPPP1PPP/RNB1K2R w KQ - 0 9",
+    "moves": [
+      "Bxd5+",
+      "Be6",
+      "Bxe6#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/Q10g0HUc",
+    "event": "Rated Blitz game",
+    "white": "mrGun88",
+    "black": "eigenrichard",
+    "whiteElo": 1364,
+    "blackElo": 1327,
+    "startFen": "r2qk2r/1ppbbppp/p1n5/3nN3/B7/8/PPPP1PPP/RNBQR1K1 w kq - 3 9",
+    "moves": [
+      "Qf3",
+      "Ndb4",
+      "Qxf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/Q75doMRg",
+    "event": "Rated Blitz game",
+    "white": "janvaldman",
+    "black": "Rey2018",
+    "whiteElo": 1829,
+    "blackElo": 1786,
+    "startFen": "r3k2r/ppp2ppp/2nbpn2/7q/2PP2b1/1PN2N2/P3BPPP/R1BQ1RK1 b kq - 2 9",
+    "moves": [
+      "Bxf3",
+      "Bxf3",
+      "Qxh2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/QTIbk6jf",
+    "event": "Rated Bullet game",
+    "white": "censuramusic",
+    "black": "Iwillbeatghuber",
+    "whiteElo": 1600,
+    "blackElo": 1615,
+    "startFen": "r1bq2r1/ppppkpQN/2nb4/4p3/2B1P3/8/PPPP1PPP/R1B1K1NR w KQ - 1 9",
+    "moves": [
+      "Qf6+",
+      "Ke8",
+      "Qxf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/QWvYeYuV",
+    "event": "Rated Bullet game",
+    "white": "Tarunkumaran5577",
+    "black": "Benno1954",
+    "whiteElo": 990,
+    "blackElo": 1046,
+    "startFen": "rnb1kb1r/2pp1ppp/p7/1p2p3/4n3/1B4Rq/PPPP1P1P/RNBQK3 b Qkq - 1 9",
+    "moves": [
+      "Qxh2",
+      "Rg4",
+      "Qxf2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/RoGja24O",
+    "event": "Rated Rapid game",
+    "white": "alubul",
+    "black": "ayus_3108",
+    "whiteElo": 1282,
+    "blackElo": 1198,
+    "startFen": "r2qkb1r/ppp2pp1/2n4p/3np3/2B1Q3/3P1b2/PPP2PPP/RNB2RK1 w kq - 0 9",
+    "moves": [
+      "Qxf3",
+      "Ndb4",
+      "Qxf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/RyDXCALU",
+    "event": "Rated Rapid game",
+    "white": "vimalramaraju",
+    "black": "Rihaandesai31",
+    "whiteElo": 879,
+    "blackElo": 746,
+    "startFen": "rnb3Br/ppp1k2p/8/2bpp1NQ/4P3/8/PPPP2qP/RNBKR3 b - - 0 9",
+    "moves": [
+      "Bg4+",
+      "Re2",
+      "Qxe2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/SbfE7rDw",
+    "event": "Rated Rapid game",
+    "white": "Aayush567",
+    "black": "Kian_Mokallaee1392",
+    "whiteElo": 1133,
+    "blackElo": 1229,
+    "startFen": "r1b1kb1N/ppp3pp/5n2/4p3/2Bn4/8/PPPP1PqP/RNBQKR2 b Qq - 1 9",
+    "moves": [
+      "Qe4+",
+      "Be2",
+      "Nf3#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/T1zHVCvk",
+    "event": "Rated Bullet game",
+    "white": "EdAthlet",
+    "black": "mkb4589",
+    "whiteElo": 1437,
+    "blackElo": 1420,
+    "startFen": "rnb2rk1/pppp1ppp/3bnq2/4N3/3P1P2/3BB3/PPP3PP/RN1Q1RK1 w - - 1 9",
+    "moves": [
+      "Qh5",
+      "Nc6",
+      "Qxh7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/T8BiNruc",
+    "event": "Rated Rapid game",
+    "white": "Tupohlavec",
+    "black": "Kstkm",
+    "whiteElo": 1419,
+    "blackElo": 1436,
+    "startFen": "rn1qkbnr/pp1b2p1/4p2p/3pP3/3p4/5Q2/PPPB1PPP/RN2KB1R w KQ - 2 9",
+    "moves": [
+      "Qh5+",
+      "Ke7",
+      "Bb4#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/TF8n2iMQ",
+    "event": "Rated Bullet game",
+    "white": "handpic11a",
+    "black": "Rajchenberg",
+    "whiteElo": 1835,
+    "blackElo": 1861,
+    "startFen": "r1bq2nr/pppk2bp/n2p1p2/4pPpQ/2BPP3/2P5/PP4PP/RNB1K1NR w KQ - 4 9",
+    "moves": [
+      "Be6+",
+      "Ke7",
+      "Qf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/UWKlKpkU",
+    "event": "Rated Blitz game",
+    "white": "onestig",
+    "black": "bzhan",
+    "whiteElo": 1452,
+    "blackElo": 1437,
+    "startFen": "r1bqk2r/ppp2pQp/4pn2/8/3np3/2N5/PPP2PPP/R1B1KB1R b KQkq - 0 9",
+    "moves": [
+      "Nxc2+",
+      "Ke2",
+      "Qd3#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/UeXjmBjr",
+    "event": "Rated Rapid game",
+    "white": "rafifar",
+    "black": "l4gr4nj4d3z3non",
+    "whiteElo": 1615,
+    "blackElo": 1583,
+    "startFen": "r1b1k1nr/pp1p1ppp/4p3/1q6/1B1QP3/8/PPP2PPP/RN2K2R w KQkq - 0 9",
+    "moves": [
+      "Qc5",
+      "Qc6",
+      "Qf8#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/Ukz7Cuds",
+    "event": "Rated Rapid tournament https://lichess.org/tournament/ELA3tXHk",
+    "white": "SidharthBalu",
+    "black": "akshitha121",
+    "whiteElo": 813,
+    "blackElo": 593,
+    "startFen": "rnbqkb1Q/ppp2p1p/3p2p1/8/2B1P3/P7/1P1P1PPP/nNBK2NR w q - 0 9",
+    "moves": [
+      "Qxh7",
+      "Bd7",
+      "Qxf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/UmAqw6XF",
+    "event": "Rated Bullet game",
+    "white": "Jona01",
+    "black": "Danielegb",
+    "whiteElo": 1157,
+    "blackElo": 1149,
+    "startFen": "r2qkb1r/pppnppp1/3p4/4P2p/2B2Qb1/2NP4/PPP2PPP/R1B1K2R w KQkq - 1 9",
+    "moves": [
+      "exd6",
+      "cxd6",
+      "Qxf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/VNDRKqoL",
+    "event": "Rated Blitz game",
+    "white": "mihailalatyr",
+    "black": "agent_00f",
+    "whiteElo": 1160,
+    "blackElo": 1204,
+    "startFen": "2kr2nr/ppp1qppp/2bb4/8/3N4/4P3/PPP2PPP/RNBQ1RK1 b - - 5 9",
+    "moves": [
+      "Qe5",
+      "Nxc6",
+      "Qxh2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/Vf8qC3vQ",
+    "event": "Rapid swiss https://lichess.org/swiss/Vfhgn50O",
+    "white": "russeljohn67",
+    "black": "MARADS",
+    "whiteElo": 1500,
+    "blackElo": 1500,
+    "startFen": "r2bk2r/ppp3pp/2np4/8/2B1n1Q1/8/PPPP1PPP/RNB1K2R w KQkq - 1 9",
+    "moves": [
+      "Qxe4+",
+      "Kd7",
+      "Qe6#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/VfnZvWQW",
+    "event": "Rated Bullet game",
+    "white": "JuanOcana85",
+    "black": "TheMinuteSpringler",
+    "whiteElo": 549,
+    "blackElo": 684,
+    "startFen": "r3kbnr/p2bpppp/4q3/1Pp5/3n4/3Q1P1N/PP1PB1PP/RNB1K2R b KQkq - 0 9",
+    "moves": [
+      "Bxb5",
+      "Qc3",
+      "Qxe2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/VloJ2cvC",
+    "event": "Rated Blitz game",
+    "white": "Turonggojoyo",
+    "black": "hamidd22",
+    "whiteElo": 1878,
+    "blackElo": 1889,
+    "startFen": "rn1q1b1r/pp2kBpp/2p2n2/4p3/4P1b1/3p1NN1/PPPP1PPP/R1BQK2R w KQ - 1 9",
+    "moves": [
+      "Nxe5",
+      "Bxd1",
+      "Nf5#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/VzJ9lnoU",
+    "event": "Rated Bullet game",
+    "white": "rusl_chess1",
+    "black": "chorg",
+    "whiteElo": 1414,
+    "blackElo": 1451,
+    "startFen": "r1bq1rk1/ppppbppp/5n2/8/3nP2Q/2NB4/PPP2PPP/R1B1K1NR w KQ - 6 9",
+    "moves": [
+      "e5",
+      "Nd5",
+      "Qxh7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/W3CMbM80",
+    "event": "Rapid swiss https://lichess.org/swiss/eVIE7lO0",
+    "white": "stone0229",
+    "black": "Winston0530",
+    "whiteElo": 1436,
+    "blackElo": 702,
+    "startFen": "rnbkr3/ppp2ppp/8/4p3/1b2P3/2N5/PPPB1PPP/R3KB1R w KQ - 4 9",
+    "moves": [
+      "O-O-O",
+      "a5",
+      "Bg5#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/WNXkAx03",
+    "event": "Rated Bullet game",
+    "white": "mishav666666",
+    "black": "GiaMinhBuii",
+    "whiteElo": 1575,
+    "blackElo": 1573,
+    "startFen": "r1bqk1nr/ppp1b2p/2np2p1/3Q4/2BpP3/8/PPP2PPP/RNB1K2R w KQ - 0 9",
+    "moves": [
+      "Qf7+",
+      "Kd7",
+      "Be6#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/XOtI37Ai",
+    "event": "Rated Rapid game",
+    "white": "nishantas",
+    "black": "thegoofKnight",
+    "whiteElo": 1114,
+    "blackElo": 1022,
+    "startFen": "rn1qkb1r/p4ppp/1ppp4/4p3/2B1n3/1Q6/PPPP1PPP/RNB2RK1 w kq - 0 9",
+    "moves": [
+      "Bxf7+",
+      "Ke7",
+      "Qe6#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/XgIJT5hP",
+    "event": "Rated Bullet game",
+    "white": "dgdgdgamer",
+    "black": "hbastienlise",
+    "whiteElo": 1359,
+    "blackElo": 1366,
+    "startFen": "r1b1kb1r/p1p2ppp/8/1p1qp1N1/3n4/8/PPP2PPP/RNBQ1RK1 b kq - 1 9",
+    "moves": [
+      "Bb7",
+      "c3",
+      "Qxg2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/XyWY7OlZ",
+    "event": "Rated Blitz game",
+    "white": "Adumata",
+    "black": "Elgendy_3taha",
+    "whiteElo": 1509,
+    "blackElo": 1580,
+    "startFen": "rnb1k2r/pp3ppp/2ppq2n/2b3B1/4P3/2N2N1P/PPP2PP1/R2QKB1R w KQkq - 2 9",
+    "moves": [
+      "e5",
+      "dxe5",
+      "Qd8#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/YLyENLsr",
+    "event": "Rated Rapid game",
+    "white": "leqenho",
+    "black": "spritzer1344",
+    "whiteElo": 1216,
+    "blackElo": 1263,
+    "startFen": "r1bq1b1r/ppppn1p1/3k3p/4nQ2/3PP3/8/PPP2PPP/RNB1K2R w KQ - 1 9",
+    "moves": [
+      "Qxe5+",
+      "Kc6",
+      "Qc5#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/aF73AnSN",
+    "event": "Rated Blitz game",
+    "white": "gsplay",
+    "black": "Oleg125",
+    "whiteElo": 1326,
+    "blackElo": 1393,
+    "startFen": "r1b1kb1N/ppp3pp/5n2/4p3/2Bn4/8/PPPP1PqP/RNBQKR2 b Qq - 1 9",
+    "moves": [
+      "Qe4+",
+      "Be2",
+      "Nf3#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/aelkCo00",
+    "event": "Rated Rapid game",
+    "white": "AllexF",
+    "black": "abdyraxmanob_akylbek",
+    "whiteElo": 1845,
+    "blackElo": 1814,
+    "startFen": "r1b1k1nr/pp1p1ppp/1q6/4N3/4P3/1PP1b3/P4PPP/RN1QKB1R b KQkq - 0 9",
+    "moves": [
+      "Bxf2+",
+      "Ke2",
+      "Qe3#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/anlWQtbg",
+    "event": "Rated Rapid game",
+    "white": "CalbertT",
+    "black": "robhumph",
+    "whiteElo": 1748,
+    "blackElo": 1760,
+    "startFen": "rnb1k2r/ppp1ppbp/6p1/3NP3/5n2/8/PPP2PPP/3RKBNR w Kkq - 0 9",
+    "moves": [
+      "Nxc7+",
+      "Kf8",
+      "Rd8#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/axfcRGa7",
+    "event": "Rated Blitz game",
+    "white": "Kingshubhan",
+    "black": "yyaannnn",
+    "whiteElo": 1371,
+    "blackElo": 1243,
+    "startFen": "r1bqk2r/ppp2ppp/2n5/1BnpP3/8/3P4/PPP3PP/RNBQ1RK1 w kq - 1 9",
+    "moves": [
+      "Qf3",
+      "Ne6",
+      "Qxf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/b0ao3iNj",
+    "event": "Rated Blitz game",
+    "white": "AnandVihari44",
+    "black": "MohdLeon",
+    "whiteElo": 1512,
+    "blackElo": 1611,
+    "startFen": "r1bq3r/ppp1k1pp/2p5/8/4n3/1B6/PPPP2PP/RNBQ2KR b - - 1 9",
+    "moves": [
+      "Qd4+",
+      "Kf1",
+      "Qf2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/bBcNZ1N1",
+    "event": "Rated Blitz game",
+    "white": "Fresnes",
+    "black": "Villmarksjakk",
+    "whiteElo": 1387,
+    "blackElo": 1351,
+    "startFen": "r2qkb1r/1ppbnp2/p1np2pp/4p3/B3P2B/2NP1N2/PPP2PPP/R2QK2R w KQkq - 0 9",
+    "moves": [
+      "Nd5",
+      "b5",
+      "Nf6#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/bOKfwVTU",
+    "event": "Rated Bullet game",
+    "white": "jethrozzz",
+    "black": "JamilNadal",
+    "whiteElo": 1482,
+    "blackElo": 1502,
+    "startFen": "rn2kbnr/ppq2ppp/2p1p1N1/8/3P4/2N5/PPP1BPPP/R1BQ1RK1 b kq - 0 9",
+    "moves": [
+      "hxg6",
+      "Be3",
+      "Qxh2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/bnHc9wBf",
+    "event": "Rated Bullet game",
+    "white": "MOZZARTT",
+    "black": "BlackaolSun",
+    "whiteElo": 1264,
+    "blackElo": 1229,
+    "startFen": "rnbq1rk1/pp3pbp/2p2p2/4p3/2p1P3/3P2Q1/PPP2P1P/RNB1K1NR w KQ - 1 9",
+    "moves": [
+      "Bh6",
+      "f5",
+      "Qxg7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/byh9hpp5",
+    "event": "Rated Bullet game",
+    "white": "tawfiq95517",
+    "black": "jemullin",
+    "whiteElo": 1554,
+    "blackElo": 1552,
+    "startFen": "r3k2r/pppq1ppp/2np1n2/2b1p3/4P1P1/1PN2N1b/PBPPBP2/R2Q1RK1 b kq - 0 9",
+    "moves": [
+      "Qxg4+",
+      "Kh2",
+      "Qg2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/c07UhXqv",
+    "event": "Rated Rapid game",
+    "white": "kripashankersharma",
+    "black": "Divyanshusharmaa",
+    "whiteElo": 1470,
+    "blackElo": 972,
+    "startFen": "rnbq1k1r/ppp2Bp1/3p4/2b1p1Np/4P3/3P1Q2/PPP2PPP/RNB1K2R w KQ - 0 9",
+    "moves": [
+      "Bxh5+",
+      "Kg8",
+      "Qf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/cAcI6aD2",
+    "event": "Rated Blitz game",
+    "white": "Friocreep",
+    "black": "todolodemaz",
+    "whiteElo": 1078,
+    "blackElo": 1078,
+    "startFen": "r3kbnr/ppp2ppp/3p1q2/4p3/2B1P3/2NP1P1b/PPP2P2/R1BQR1K1 b kq - 3 9",
+    "moves": [
+      "Qg6+",
+      "Kh2",
+      "Qg2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/cgiNOsbt",
+    "event": "Rated Bullet game",
+    "white": "puharich",
+    "black": "blacpoin",
+    "whiteElo": 1611,
+    "blackElo": 1572,
+    "startFen": "r2qk1nr/ppp2pbp/2n3p1/4p3/3PP3/2PB1Q2/PP4PP/RNB1K2R w KQkq - 0 9",
+    "moves": [
+      "O-O",
+      "exd4",
+      "Qxf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/cji5FOFd",
+    "event": "Rated Blitz game",
+    "white": "olloo",
+    "black": "Pasha25439",
+    "whiteElo": 1290,
+    "blackElo": 1268,
+    "startFen": "r2qkb1r/pp3ppp/5n2/2p5/1n4b1/1BNP1Q2/PPP2PPP/R1B1K1NR w KQkq - 5 9",
+    "moves": [
+      "Qxb7",
+      "Bd6",
+      "Qxf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/d2jrSUwh",
+    "event": "Rated Blitz game",
+    "white": "ChristiniPlaysChess",
+    "black": "m_m_h92",
+    "whiteElo": 1803,
+    "blackElo": 1836,
+    "startFen": "r1bqkb1r/pp4pp/2n2p2/2pnp1N1/2B5/2PP1Q2/PP3PPP/RNB1K2R w KQkq - 0 9",
+    "moves": [
+      "Bxd5",
+      "fxg5",
+      "Qf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/dsqqDK0h",
+    "event": "Rated Blitz game",
+    "white": "Rambate",
+    "black": "guggi68",
+    "whiteElo": 1883,
+    "blackElo": 1862,
+    "startFen": "r2q1b1r/pp2p1pp/2np1n2/2p2QNk/4P3/2N5/PPPP1PPP/R1B1K2R w KQ - 3 9",
+    "moves": [
+      "Nf7+",
+      "Kh4",
+      "g3#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/eY6GNBvW",
+    "event": "Rated Rapid game",
+    "white": "micahlee",
+    "black": "MikeyLevi1989",
+    "whiteElo": 1168,
+    "blackElo": 1100,
+    "startFen": "r1b1k2r/pppp1Npp/8/4p3/2Bnn2q/5Q2/PPPP2PP/RNB2K1R b kq - 5 9",
+    "moves": [
+      "Nxf3",
+      "Nxh8",
+      "Qf2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/emay76pc",
+    "event": "Rated Rapid game",
+    "white": "Mezzcua",
+    "black": "ampadiemsites",
+    "whiteElo": 1582,
+    "blackElo": 1578,
+    "startFen": "rn2k2r/ppp1nppp/3bp3/7q/3P2b1/2N2N2/PPPBBPPP/R2Q1RK1 b kq - 4 9",
+    "moves": [
+      "Bxf3",
+      "Bxf3",
+      "Qxh2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/fC7yg8AK",
+    "event": "Rated Blitz game",
+    "white": "bharat1966",
+    "black": "thanga_nebohome2",
+    "whiteElo": 1670,
+    "blackElo": 1691,
+    "startFen": "rn1qkb1r/p2b1ppp/4pn2/1p2N3/2pP4/2N1P3/1P3PPP/R1BQKB1R w KQkq - 0 9",
+    "moves": [
+      "Qf3",
+      "Nd5",
+      "Qxf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/fYs2nRua",
+    "event": "Rated Rapid game",
+    "white": "hasan39",
+    "black": "TATXI",
+    "whiteElo": 1425,
+    "blackElo": 1438,
+    "startFen": "rn1qkbr1/p1pppp2/1p3p1p/8/2BP3N/2N5/PPP2P1P/R1BQK2b w Qq - 2 9",
+    "moves": [
+      "Qh5",
+      "Nc6",
+      "Qxf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/gc5E5s1g",
+    "event": "Rated Bullet game",
+    "white": "NevzatKaptan",
+    "black": "IbragimMakiev",
+    "whiteElo": 1938,
+    "blackElo": 1928,
+    "startFen": "r1b1kbnr/2p2ppp/p1p5/q7/3N4/2P5/PP3PPP/RNBQK2R w KQkq - 0 9",
+    "moves": [
+      "Nxc6",
+      "Bc5",
+      "Qd8#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/gm2ZNb5Z",
+    "event": "Rated Bullet game",
+    "white": "Abchife",
+    "black": "hakemoo",
+    "whiteElo": 1402,
+    "blackElo": 1407,
+    "startFen": "rbb1k2r/ppqn1ppp/2p1pN2/3p4/3P4/4P2P/PPP1BPP1/RNBQ1RK1 b kq - 0 9",
+    "moves": [
+      "Nxf6",
+      "Nd2",
+      "Qh2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/hLT2O6he",
+    "event": "Rated Blitz game",
+    "white": "suhoy1984",
+    "black": "andrej_013",
+    "whiteElo": 1222,
+    "blackElo": 1245,
+    "startFen": "rnb1k1nr/1p3p2/2pp1q1p/p1b1p1p1/2B1P1PP/P1NP1N2/1PP2P2/R1BQK2R b KQkq - 0 9",
+    "moves": [
+      "gxh4",
+      "Nxh4",
+      "Qxf2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/iOqTccSA",
+    "event": "Rated Blitz game",
+    "white": "katherina_a",
+    "black": "mrashad",
+    "whiteElo": 1362,
+    "blackElo": 1291,
+    "startFen": "rnb1k2r/ppp2ppp/8/2qPp3/2B3n1/2NPBN2/PPP3PP/R2Q2KR b kq - 4 9",
+    "moves": [
+      "Qxe3+",
+      "Kf1",
+      "Qf2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/kcZEsAHw",
+    "event": "Rated Blitz game",
+    "white": "Lewan23",
+    "black": "VovaVoviy",
+    "whiteElo": 1228,
+    "blackElo": 1172,
+    "startFen": "r1bqk2r/2pp1ppp/p1nb4/1p2p3/1P2P1n1/1BPPB3/P3NPPP/RN1Q1RK1 b kq - 3 9",
+    "moves": [
+      "Qh4",
+      "f3",
+      "Qxh2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/kkWDE0TI",
+    "event": "Rated Bullet game",
+    "white": "Perrazooo",
+    "black": "A_1reza1_A",
+    "whiteElo": 2165,
+    "blackElo": 2172,
+    "startFen": "rnbqk2r/pp1n1ppp/2p1p3/3p4/8/2PP1NPP/PP1NP1P1/R2QKB1R b KQkq - 0 9",
+    "moves": [
+      "Qc7",
+      "g4",
+      "Qg3#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/koyE5KGJ",
+    "event": "Rated Blitz game",
+    "white": "Dimskaki",
+    "black": "MindStorm86",
+    "whiteElo": 1082,
+    "blackElo": 1049,
+    "startFen": "r2qk2r/ppp2ppp/2nb4/3np3/2B5/2P2Q2/PP1P1PPP/RNB1R1K1 w kq - 1 9",
+    "moves": [
+      "Bxd5",
+      "Bc5",
+      "Qxf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/kseQkZMp",
+    "event": "Rated Bullet game",
+    "white": "Klausimausimausi",
+    "black": "bokeronnn",
+    "whiteElo": 973,
+    "blackElo": 1087,
+    "startFen": "r2q1k1r/ppp2Npp/2n5/2bBp3/4P1b1/8/PPPP1PPP/RNB1K2R b KQ - 1 9",
+    "moves": [
+      "Qf6",
+      "Nxh8",
+      "Qxf2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/l8sKmMrX",
+    "event": "Rated Blitz game",
+    "white": "Tramtararam",
+    "black": "ilhan68",
+    "whiteElo": 1399,
+    "blackElo": 1373,
+    "startFen": "r1bqkbnr/pppp3p/6N1/7Q/4P3/8/PP1P1PPP/nNBK3R w - - 0 9",
+    "moves": [
+      "Nxh8+",
+      "Ke7",
+      "Qe5#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/lHBtWB9N",
+    "event": "Rated Blitz game",
+    "white": "Reza_137",
+    "black": "Underpromote_Shop",
+    "whiteElo": 1646,
+    "blackElo": 1620,
+    "startFen": "rnb1k2r/ppp2pbp/4p1p1/4P1B1/5Pn1/2N5/PPP3PP/3RKBNR w Kkq - 0 9",
+    "moves": [
+      "h3",
+      "Ne3",
+      "Rd8#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/lTNBzveo",
+    "event": "Rated Blitz game",
+    "white": "nielsonbezerra",
+    "black": "FARL7",
+    "whiteElo": 1008,
+    "blackElo": 978,
+    "startFen": "r1b2rk1/pppp1Npp/2n2q2/2b1p2Q/2B1P3/2N5/PPPP1nPP/R1B2RK1 w - - 4 9",
+    "moves": [
+      "Ng5+",
+      "d5",
+      "Qxh7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/lggrKB2E",
+    "event": "Rated Rapid game",
+    "white": "P-ebble",
+    "black": "Thejas-Sanjay",
+    "whiteElo": 800,
+    "blackElo": 749,
+    "startFen": "r1b1k1nr/pppp1ppp/8/2b1q3/4P3/P1PB4/1P3PPP/RNBQ1RK1 b kq - 0 9",
+    "moves": [
+      "Bd6",
+      "b3",
+      "Qxh2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/mveRfayn",
+    "event": "Rated Blitz game",
+    "white": "Benthetoot",
+    "black": "diediederik",
+    "whiteElo": 1056,
+    "blackElo": 985,
+    "startFen": "rn1q1rk1/pp2ppbp/2pp2p1/5b2/2BP3Q/2P2N2/PP3PPP/RNB1K2R w KQ - 5 9",
+    "moves": [
+      "Ng5",
+      "e6",
+      "Qxh7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/n9x9CtBK",
+    "event": "Rated Rapid game",
+    "white": "chodu20",
+    "black": "thewordengine",
+    "whiteElo": 1679,
+    "blackElo": 1693,
+    "startFen": "r1b1kbnr/ppp3pp/8/4p1q1/3n1pP1/7K/PPPP1P1P/RNBQ1BNR b kq g3 0 9",
+    "moves": [
+      "b6",
+      "Bg2",
+      "Qh6#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/nEyLVJvD",
+    "event": "Rapid swiss https://lichess.org/swiss/qTDCz3md",
+    "white": "Neevika",
+    "black": "Jersenb",
+    "whiteElo": 652,
+    "blackElo": 508,
+    "startFen": "rn2k1nr/p1pp1ppp/1p3q2/4P3/1b1P4/6P1/PPP1N2P/RNBQ2Kb b kq - 4 9",
+    "moves": [
+      "Qf3",
+      "Bg5",
+      "Qg2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/ndQtRMgI",
+    "event": "Rated Blitz game",
+    "white": "ArjonSikder",
+    "black": "BlackHorserider",
+    "whiteElo": 1673,
+    "blackElo": 1644,
+    "startFen": "rn1qkbnr/p2bp2p/5pp1/1p2N2Q/2p1P3/2N5/1P1P1PPP/R1B1KB1R w KQkq - 0 9",
+    "moves": [
+      "Nxg6",
+      "hxg6",
+      "Qxg6#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/nebCpBsO",
+    "event": "Rated Blitz tournament https://lichess.org/tournament/hlnvGLzF",
+    "white": "ChesswarriorTampere",
+    "black": "jrseamaq",
+    "whiteElo": 2195,
+    "blackElo": 1477,
+    "startFen": "rnbq1bnr/p1p1kBpp/1p6/8/8/1Q3N2/PP3KPP/RNB4R w - - 0 9",
+    "moves": [
+      "Re1+",
+      "Kd7",
+      "Qe6#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/nh8NCVf4",
+    "event": "Rated Rapid game",
+    "white": "Domenico78",
+    "black": "amitbaral",
+    "whiteElo": 1211,
+    "blackElo": 811,
+    "startFen": "r1bqkb1r/p2nn2p/1p1p1p2/2p1p1p1/P1P1P1P1/2NP1N1P/1P3P2/R1BQKB1R w KQkq - 3 9",
+    "moves": [
+      "Nb5",
+      "Ba6",
+      "Nxd6#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/nu9bd0bD",
+    "event": "Rated Blitz game",
+    "white": "stelasaleh",
+    "black": "fakhr88",
+    "whiteElo": 1644,
+    "blackElo": 1614,
+    "startFen": "r1bqk2r/pp1n1ppp/2p5/1N1QP3/1b6/2P5/PP2PPPP/R3KBNR w KQkq - 0 9",
+    "moves": [
+      "Nd6+",
+      "Ke7",
+      "Qxf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/o7Hb6YMC",
+    "event": "Rated Rapid game",
+    "white": "haider1020",
+    "black": "Container67",
+    "whiteElo": 1438,
+    "blackElo": 1354,
+    "startFen": "rnbq1rk1/pp2bppp/2p1p3/4P3/3PQ3/2P5/PP3PPP/R1B1KBNR w KQ - 0 9",
+    "moves": [
+      "Bd3",
+      "Nd7",
+      "Qxh7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/oouqM07z",
+    "event": "Rated UltraBullet tournament https://lichess.org/tournament/2yaX6mM9",
+    "white": "InFormPlayer2011",
+    "black": "Wandathegreat",
+    "whiteElo": 2009,
+    "blackElo": 1944,
+    "startFen": "rnbqnrk1/pp2bppp/2p1p3/4p3/2PP4/2N5/PPB2PPP/R1BQK1NR w KQ - 0 9",
+    "moves": [
+      "Qd3",
+      "exd4",
+      "Qxh7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/oto6xH79",
+    "event": "Rated Blitz game",
+    "white": "addakishore",
+    "black": "ValeronBeast",
+    "whiteElo": 1457,
+    "blackElo": 1483,
+    "startFen": "r3kbnr/ppp1pppp/n5b1/1q1pN3/3P4/7Q/PPPBPPPP/R3KB1R w KQkq - 0 9",
+    "moves": [
+      "e3",
+      "Qxb2",
+      "Qd7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/pSWGOGXU",
+    "event": "Rated Bullet game",
+    "white": "Genghis1999",
+    "black": "gyscott",
+    "whiteElo": 1407,
+    "blackElo": 1379,
+    "startFen": "rn2kb1r/ppp1pppp/3p1n2/8/3PP3/2P2N2/PP1NBq1P/R1BKR3 b kq - 1 9",
+    "moves": [
+      "Ng4",
+      "e5",
+      "Ne3#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/pas5Fzf6",
+    "event": "Rated Rapid tournament https://lichess.org/tournament/7Z9R1olV",
+    "white": "Dhathri2026",
+    "black": "AniketVelagandula",
+    "whiteElo": 850,
+    "blackElo": 444,
+    "startFen": "r1bq1rk1/pppp1ppp/8/3Bp1N1/1n1bP1Q1/2N5/PPPP1PPP/R1B2RK1 w - - 1 9",
+    "moves": [
+      "Qh4",
+      "Nxc2",
+      "Qxh7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/pf7JJnPG",
+    "event": "Rated Blitz game",
+    "white": "RNZ1349",
+    "black": "magsk",
+    "whiteElo": 1482,
+    "blackElo": 1511,
+    "startFen": "r1b2b1r/ppppq1p1/5nkp/4n1N1/4P3/8/PPP2PPP/RNBQ1RK1 w - - 0 9",
+    "moves": [
+      "f4",
+      "Nc6",
+      "f5#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/q8CGDmcn",
+    "event": "Rated Rapid game",
+    "white": "AndroidSoloshenko",
+    "black": "stallen2",
+    "whiteElo": 1495,
+    "blackElo": 1467,
+    "startFen": "r1bqkb1r/ppp3pp/8/3pPp2/1n1N4/1P1Pn2P/PBPQP1P1/RN2KB1R b KQkq - 4 9",
+    "moves": [
+      "Qh4+",
+      "g3",
+      "Qxg3#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/qAt40Mej",
+    "event": "Rated Blitz game",
+    "white": "BuzovskyMaxim",
+    "black": "Vavrikus",
+    "whiteElo": 1811,
+    "blackElo": 1814,
+    "startFen": "rn1qk2r/pbpp2p1/1p1bp2p/4Np1n/3P1B2/2P1P3/PP3PPP/RN1QK2R w KQkq - 0 9",
+    "moves": [
+      "Qxh5+",
+      "Kf8",
+      "Qf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/qFPvUlXE",
+    "event": "Rated Bullet tournament https://lichess.org/tournament/JQCZY4it",
+    "white": "rchihota",
+    "black": "quantstamp",
+    "whiteElo": 1754,
+    "blackElo": 1878,
+    "startFen": "rn2k1nr/pbpp1ppp/1p2p3/8/3PP3/2PB1qP1/PPQ1NP1P/RN3RK1 b kq - 4 9",
+    "moves": [
+      "f5",
+      "exf5",
+      "Qg2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/qTGTfnTy",
+    "event": "Rated Blitz game",
+    "white": "The-S-returns",
+    "black": "datngo123689",
+    "whiteElo": 1588,
+    "blackElo": 1509,
+    "startFen": "r3k1nr/3p1ppp/bqn1p3/p1b5/P3P3/1P3N2/2P2PPP/RNBQKB1R b KQkq - 2 9",
+    "moves": [
+      "Bxf2+",
+      "Kd2",
+      "Qe3#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/qvCp6I2R",
+    "event": "Rated Blitz game",
+    "white": "DmitryHos93",
+    "black": "pavelbilkis",
+    "whiteElo": 1078,
+    "blackElo": 1109,
+    "startFen": "r1bqkbnr/p2n2p1/1pp1p2p/3pP1N1/8/2NB4/PPP2PPP/R1BQK2R w KQkq - 0 9",
+    "moves": [
+      "Qh5+",
+      "Ke7",
+      "Qf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/qyiXAgjf",
+    "event": "Rated Blitz game",
+    "white": "Rudolf65",
+    "black": "impulse01",
+    "whiteElo": 1915,
+    "blackElo": 1862,
+    "startFen": "rn2kbnr/ppp1pppp/4q3/8/8/NQ2P3/PP1P1PPP/R1B1K2R w KQkq - 0 9",
+    "moves": [
+      "Qxb7",
+      "Qc6",
+      "Qc8#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/rVMYxCk5",
+    "event": "Rated Blitz game",
+    "white": "ZipperCrack",
+    "black": "ultra3100",
+    "whiteElo": 1289,
+    "blackElo": 1372,
+    "startFen": "rn1qkb1r/ppp1p1p1/3pP3/7p/3p4/3P4/PPP2PPP/R1BQK1NR w KQkq - 0 9",
+    "moves": [
+      "Qf3",
+      "d5",
+      "Qf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/rjVLsQuL",
+    "event": "Rated Bullet game",
+    "white": "sungura_254",
+    "black": "baskank",
+    "whiteElo": 1324,
+    "blackElo": 1312,
+    "startFen": "r1bq3r/pppkpBbp/2n3p1/8/3P1Bn1/4P2Q/PP3PPP/RN2K1NR w KQ - 3 9",
+    "moves": [
+      "Qxg4+",
+      "e6",
+      "Qxe6#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/sB9DWvRr",
+    "event": "Rated Blitz game",
+    "white": "Dread_Alpha",
+    "black": "Toboll",
+    "whiteElo": 1476,
+    "blackElo": 1473,
+    "startFen": "r2qkb1r/pp1bpp1p/2np2p1/1B1N4/4n3/5N2/PPP2PPP/R1BQK2R w KQkq - 0 9",
+    "moves": [
+      "Qe2",
+      "Nf6",
+      "Nxf6#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/sPTC9DrI",
+    "event": "Rated Bullet game",
+    "white": "Tamashashi1",
+    "black": "S_kanil",
+    "whiteElo": 1381,
+    "blackElo": 1384,
+    "startFen": "r2q1rk1/pppbbppp/2n1p3/3pPn2/3P4/2PQ1N2/PPB2PPP/RNB1K2R w KQ - 5 9",
+    "moves": [
+      "g4",
+      "Nh4",
+      "Qxh7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/sWrNBExB",
+    "event": "Rated Blitz game",
+    "white": "Sirpamex",
+    "black": "therealseunsoft",
+    "whiteElo": 1417,
+    "blackElo": 1533,
+    "startFen": "rnb2rk1/1p1p1ppp/pqp2n2/4p1B1/2P1P3/2NP3P/PP2BbP1/1R1Q1KNR b - - 1 9",
+    "moves": [
+      "Bg3",
+      "Na4",
+      "Qf2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/tAS4hQSY",
+    "event": "Rated Blitz game",
+    "white": "emrecanny",
+    "black": "Glunia",
+    "whiteElo": 1584,
+    "blackElo": 1582,
+    "startFen": "r1b2bkr/ppp3pp/2n5/3qp3/8/5Q2/PPPP1PPP/RNB1K2R w KQ - 0 9",
+    "moves": [
+      "Qxd5+",
+      "Be6",
+      "Qxe6#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/tid6zn9E",
+    "event": "Rated Bullet game",
+    "white": "Ayman_Sobhy",
+    "black": "gameoveragain0001",
+    "whiteElo": 1390,
+    "blackElo": 1431,
+    "startFen": "r1bqk2r/pp3ppp/2N5/2bn4/8/2N5/PPPP1PPP/R1BQK2R b KQkq - 0 9",
+    "moves": [
+      "Qf6",
+      "Nxd5",
+      "Qxf2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/u4OF8nes",
+    "event": "Rated Bullet game",
+    "white": "XYGSYS",
+    "black": "benito777",
+    "whiteElo": 859,
+    "blackElo": 838,
+    "startFen": "r1b1k2r/pppp1ppp/8/2b1P3/4Q3/3B4/PPP2qPP/RNB1K2R w KQkq - 0 9",
+    "moves": [
+      "Kd1",
+      "O-O",
+      "Qxh7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/uHrG7jh7",
+    "event": "Rated Blitz game",
+    "white": "KYPITMAN356",
+    "black": "The_Integrater",
+    "whiteElo": 1790,
+    "blackElo": 1778,
+    "startFen": "rnbqk2r/ppp2ppp/3bpn2/8/2BP4/2N2Q2/PPP1N1PP/R1B2RK1 w kq - 2 9",
+    "moves": [
+      "Ne4",
+      "Nxe4",
+      "Qxf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/v6OdHX95",
+    "event": "Rated Blitz game",
+    "white": "malikmisbah",
+    "black": "als328",
+    "whiteElo": 1067,
+    "blackElo": 1180,
+    "startFen": "r1bqkb1r/p2np1p1/1pp2n1p/2Pp4/3P1B2/4P3/PP3PPP/RN1QKB1R w KQ - 0 9",
+    "moves": [
+      "Bd3",
+      "bxc5",
+      "Bg6#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/vYSuEcY6",
+    "event": "Rated Rapid game",
+    "white": "matechessz",
+    "black": "PedderHolke",
+    "whiteElo": 1168,
+    "blackElo": 1197,
+    "startFen": "rn3b1r/pbq1kppp/4p3/1B6/3P2n1/2N2N2/PPP2PPP/R1BQ1RK1 b - - 0 9",
+    "moves": [
+      "Bxf3",
+      "Qxf3",
+      "Qxh2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/vfDjjieE",
+    "event": "Rated Blitz game",
+    "white": "demadirk",
+    "black": "doomers",
+    "whiteElo": 2170,
+    "blackElo": 2174,
+    "startFen": "1rbq1bnr/1pNk1ppp/p1np4/3Np3/4P3/8/PPP2PPP/R1BQKB1R w KQ - 1 9",
+    "moves": [
+      "Qg4+",
+      "f5",
+      "Qxf5#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/vzpzfhqY",
+    "event": "Rated Rapid game",
+    "white": "Queenshotbro",
+    "black": "RabbieJacob",
+    "whiteElo": 1232,
+    "blackElo": 1271,
+    "startFen": "r1bqkb1r/1ppn3p/p1n2p2/3Np3/3P1B2/6P1/PPP2P1P/R2QKBNR w KQkq - 0 9",
+    "moves": [
+      "dxe5",
+      "fxe5",
+      "Qh5#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/w5F7xCbA",
+    "event": "Rated Blitz game",
+    "white": "FloresFederico",
+    "black": "Sasha_yugay99",
+    "whiteElo": 1514,
+    "blackElo": 1487,
+    "startFen": "r1bq1k1r/ppp3pp/1bnp1n2/4p1N1/3PP3/2P5/PP3PPP/RNBQ1RK1 w - - 3 9",
+    "moves": [
+      "Qb3",
+      "h6",
+      "Qf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/wDN0OTN8",
+    "event": "Rated Blitz game",
+    "white": "MarcAndre1896",
+    "black": "aivant",
+    "whiteElo": 1260,
+    "blackElo": 1203,
+    "startFen": "r1bqk2r/ppp2pp1/2np4/2b1p3/2P1P1p1/2NB4/PP1P1PPN/R1BQ1RK1 b kq - 1 9",
+    "moves": [
+      "Qh4",
+      "Qxg4",
+      "Qxh2#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/wg2lRDdi",
+    "event": "Rated Blitz game",
+    "white": "dejjee",
+    "black": "Javillaku65",
+    "whiteElo": 460,
+    "blackElo": 582,
+    "startFen": "r1b1kb1r/pppp1ppp/2n1p3/4N3/4nP2/3K4/PPP2qPP/RNBQ1B1R b kq - 3 9",
+    "moves": [
+      "Nb4+",
+      "Kxe4",
+      "f5#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/wsVkn6vl",
+    "event": "Rated Rapid game",
+    "white": "AmrAgiza",
+    "black": "benjamin-dlm",
+    "whiteElo": 1653,
+    "blackElo": 1680,
+    "startFen": "r1b1k2r/pp4pp/1qn1pn2/2bp4/1P6/2P2N2/P2N1PPP/R1BQKB1R b KQkq - 0 9",
+    "moves": [
+      "Bxf2+",
+      "Ke2",
+      "Qe3#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/xALrw24m",
+    "event": "Rated Rapid game",
+    "white": "balaga",
+    "black": "Edwinmquirogac94",
+    "whiteElo": 1644,
+    "blackElo": 1678,
+    "startFen": "rn1qkbnr/pp2pp1b/2p3pp/4N2Q/7P/6N1/PPPP1PP1/R1B1KB1R w KQkq - 0 9",
+    "moves": [
+      "Bc4",
+      "gxh5",
+      "Bxf7#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/yRMsUX2H",
+    "event": "Rated Blitz game",
+    "white": "NiceThrones",
+    "black": "yilmaz_k",
+    "whiteElo": 1189,
+    "blackElo": 1228,
+    "startFen": "rnb1kbnr/ppp1p1p1/7p/4q3/4p3/2NB4/PPP2PPP/R1BQ1RK1 w kq - 0 9",
+    "moves": [
+      "Bxe4",
+      "Nc6",
+      "Bg6#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/yUv5WLGl",
+    "event": "Rated Rapid game",
+    "white": "Blessedphir",
+    "black": "AlmirM",
+    "whiteElo": 1281,
+    "blackElo": 1264,
+    "startFen": "rnb1k2r/pppp1ppp/8/2b5/3QP3/2N5/PPP3PP/R1B2BKR b kq - 0 9",
+    "moves": [
+      "Bxd4+",
+      "Be3",
+      "Bxe3#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/yj0vTkyf",
+    "event": "Rated Rapid game",
+    "white": "javentan",
+    "black": "ShortPiecesFirst",
+    "whiteElo": 1353,
+    "blackElo": 1314,
+    "startFen": "rn2kb1r/pp2pppp/2p5/8/2Pqb1Q1/8/PP4PP/R1B1KBNR w KQkq - 0 9",
+    "moves": [
+      "Ne2",
+      "Qe5",
+      "Qc8#"
+    ],
+    "result": "1-0"
+  },
+  {
+    "site": "https://lichess.org/zDKQLB3K",
+    "event": "Rated Blitz game",
+    "white": "Pankajbhageria",
+    "black": "TiagoJoao",
+    "whiteElo": 1656,
+    "blackElo": 1608,
+    "startFen": "r1b1k1nr/ppp2ppp/3p4/4P3/3bq3/6K1/PPP3PP/RNBQ1B1R b kq - 1 9",
+    "moves": [
+      "Bxe5+",
+      "Bf4",
+      "Qxf4#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/zSYcY3xN",
+    "event": "Rated Blitz game",
+    "white": "Grey_1522",
+    "black": "OlegShabelyanov",
+    "whiteElo": 1446,
+    "blackElo": 1438,
+    "startFen": "rnbqkb1r/ppp2npp/4pp1B/8/3P4/8/PPP1pPPP/RN2KR2 b Qkq - 1 9",
+    "moves": [
+      "exf1=Q+",
+      "Kd2",
+      "Qxd4#"
+    ],
+    "result": "0-1"
+  },
+  {
+    "site": "https://lichess.org/zTgESn6e",
+    "event": "Rated Rapid game",
+    "white": "TRiToN_NRG",
+    "black": "Tumirnix",
+    "whiteElo": 1560,
+    "blackElo": 1593,
+    "startFen": "r1b1k2r/pp3ppp/1qn1p2n/2bpP3/3p1P2/2P2N2/PP1BN1PP/R2QKB1R b KQkq - 0 9",
+    "moves": [
+      "d3",
+      "Ng3",
+      "Bf2#"
+    ],
+    "result": "0-1"
+  }
+]
