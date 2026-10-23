@@ -1,0 +1,40 @@
+baseURL = "/"
+
+# One-page site, same as your other chess projects.
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+
+defaultContentLanguage = "en"
+
+theme = "hugo-scroll"
+
+title = "Find Your Mate"
+
+enableGitInfo = true
+enableEmoji = true
+
+[params]
+    favicon = "images/favicon.png"
+    images = ["images/cover-image.jpg"]
+    title_guard = true
+    title = "Find Your Mate"
+    description = "Blindfold mate-finding puzzles pulled from real Lichess games - type the moves, then check against the real game"
+    language_menu = false
+    show_current_lang = false
+    hidedesignbyline = false
+    invertSectionColors = false
+    image_options = "webp q90 lanczos photo"
+    combine_page_and_site_title = false
+
+    [params.footer]
+    showContactIcons = true
+    showFooterLinks = false
+
+[languages]
+  [languages.en]
+    weight = 10
+    languageName = "English"
+    contentDir = "content/en"
+
+# allow the puzzle-deck markup (board/ascii containers) inside page content
+[markup.goldmark.renderer]
+  unsafe = true

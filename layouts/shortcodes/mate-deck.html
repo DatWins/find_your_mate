@@ -1,0 +1,7 @@
+{{- $cat := .Get "category" -}}
+{{- $title := .Get "title" -}}
+{{- $mode := .Get "mode" | default "board" -}}
+{{- if not $cat }}{{ errorf "mate-deck: missing category= at %s" .Position }}{{ end -}}
+<div class="mate-deck" id="{{ $cat }}" data-category="{{ $cat }}" data-title="{{ $title | default $cat }}" data-mode="{{ $mode }}">
+  <noscript><p><em>This puzzle needs JavaScript enabled.</em></p></noscript>
+</div>

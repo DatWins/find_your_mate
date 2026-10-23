@@ -1,0 +1,76 @@
+<style>
+/* Find Your Mate palette: the same green board as the flip cards -
+   cream #eeeed2 · board green #769656 · deep green #1b3a1b */
+:root {
+    --cover-text-color:#eeeed2;
+    --cover-title-and-description-guard-bg-color: rgba(11,28,11,.72);
+    --cover-title-text-shadow: none;
+
+    --highlight:#eeeed2;
+    --highlight-contrast:#1b3a1b;
+    --highlight-inverse:#2f6b3a;
+    --highlight-inverse-contrast:#eeeed2;
+
+    --sticky-menu-text-color:#769656;
+
+    --section-light-bg-color:#eeeed2;
+    --section-light-text-color:#1b3a1b;
+    --section-dark-bg-color:#1b3a1b!important;
+    --section-dark-text-color:#eeeed2!important;
+    --section-uni-quote:#4f7a44;
+    --section-uni-code-bg-color:#d7e4c6;
+
+    --footer-color-background:#102410;
+    --footer-color:#bcd1ab;
+
+    --ul-li-icon: ;
+}
+.blog-title, .blog-description { color:#eeeed2 !important; }
+.title-and-description-guard { border:1px solid rgba(118,150,86,.55); }
+#site-head .btn.site-menu { border:none; }
+.post-content a { text-decoration-color:#769656; text-underline-offset:3px; }
+.post-content a:hover { color:#2f6b3a; }
+.post-holder.dark .post-content a:hover { color:#9cc9a3; }
+.fixed-nav a.fn-item.active { color:#2f6b3a; }
+.post-content h2 { font-size: 1.45em; margin-top: 1.6em; scroll-margin-top: 72px; }
+.post-title { margin-bottom: 0.4em; }
+
+/* keep chess notation as written (1.e4, Qh5) instead of ALL CAPS */
+#site-head .btn.site-menu, .fixed-nav a.fn-item { text-transform:none !important; letter-spacing:.02em; }
+#site-head .btn.site-menu { font-size:1.05em; }
+
+/* ---------- phones & tablets ---------- */
+@media only screen and (max-width: 1130px) {
+  .fixed-nav {
+    flex-wrap: nowrap !important; justify-content: flex-start; align-items: center; gap: 6px;
+    overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none;
+    padding: 8px 10px !important; background: #1b3a1b !important; box-shadow: 0 2px 8px rgba(0,0,0,.25);
+    box-sizing: border-box;
+  }
+  .fixed-nav::-webkit-scrollbar { display: none; }
+  a.fn-item {
+    display: inline-block !important; flex: 0 0 auto; margin: 0 !important;
+    padding: 9px 14px; border-radius: 999px; white-space: nowrap;
+    font-size: 15px; line-height: 1.2; letter-spacing: .02em;
+    color: #eeeed2 !important; background: rgba(238,238,210,.12); opacity: .9;
+  }
+  a.fn-item.active { background: #eeeed2; color: #1b3a1b !important; opacity: 1; }
+  .post-holder .post { scroll-margin-top: 64px; }
+  #site-head .btn.site-menu { padding: 10px 16px; margin: 5px 3px; font-size: 15px; }
+  #site-head .blog-title { font-size: 3.4rem; }
+  #site-head .blog-description { font-size: 1.9rem; }
+}
+</style>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var nav = document.querySelector('.fixed-nav'); if (!nav) return; var last = null;
+  window.addEventListener('scroll', function () {
+    var a = nav.querySelector('.fn-item.active'); if (!a || a === last || nav.scrollWidth <= nav.clientWidth) return; last = a;
+    nav.scrollTo({ left: a.offsetLeft - (nav.clientWidth - a.offsetWidth) / 2, behavior: 'smooth' });
+  }, { passive: true });
+});
+</script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/chess.js/0.10.3/chess.min.js"></script>
+<link rel="stylesheet" href='{{ "css/mate.css" | relURL }}'>
+<script src='{{ "js/mate.js" | relURL }}' defer></script>
