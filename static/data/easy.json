@@ -7,6 +7,15 @@
     "whiteElo": 1813,
     "blackElo": 2780,
     "startFen": "rnbqkb1r/ppp2ppp/5n2/3Pp3/8/3K4/PPPP1PPP/RNBQ1BNR b kq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Ke2",
+      "Nf6",
+      "Kd3",
+      "d5",
+      "exd5"
+    ],
     "moves": [
       "Qxd5+",
       "Ke2",
@@ -22,6 +31,14 @@
     "whiteElo": 1352,
     "blackElo": 1272,
     "startFen": "rnbqkbnr/pp2pppp/2p5/4N3/4p3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "c6",
+      "Nf3",
+      "d5",
+      "Ne5",
+      "dxe4"
+    ],
     "moves": [
       "Qh5",
       "Nf6",
@@ -37,6 +54,14 @@
     "whiteElo": 1062,
     "blackElo": 918,
     "startFen": "rnbqkb1r/pppp1ppp/8/4N3/4n3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Nf3",
+      "Nf6",
+      "Nxe5",
+      "Nxe4"
+    ],
     "moves": [
       "Qf3",
       "Nc5",
@@ -52,6 +77,14 @@
     "whiteElo": 818,
     "blackElo": 516,
     "startFen": "r2qkbnr/pppbpppp/2np4/8/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 4 4",
+    "setupMoves": [
+      "e4",
+      "d6",
+      "Bb5+",
+      "Bd7",
+      "Bc4",
+      "Nc6"
+    ],
     "moves": [
       "Qh5",
       "Nf6",
@@ -67,6 +100,15 @@
     "whiteElo": 1274,
     "blackElo": 1441,
     "startFen": "rnb1k1nr/pppp1ppp/5q2/2b1p2Q/2B1P3/8/PPPP1PPP/RNB2KNR b kq - 5 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Qh5",
+      "Qf6",
+      "Bc4",
+      "Bc5",
+      "Kf1"
+    ],
     "moves": [
       "d5",
       "Bxd5",
@@ -82,6 +124,15 @@
     "whiteElo": 1855,
     "blackElo": 1598,
     "startFen": "rnb1kbnr/ppp2ppp/5q2/3pN3/8/6P1/PPPPPPBP/RNBQK2R b KQkq - 0 4",
+    "setupMoves": [
+      "Nf3",
+      "e5",
+      "g3",
+      "d5",
+      "Bg2",
+      "Qf6",
+      "Nxe5"
+    ],
     "moves": [
       "Bc5",
       "Nxf7",
@@ -97,6 +148,15 @@
     "whiteElo": 1000,
     "blackElo": 1455,
     "startFen": "rnbqk1nr/ppp2ppp/3p4/2b5/2N1P3/8/PPPP1PPP/RNBQKB1R b KQkq - 1 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Nf3",
+      "Bc5",
+      "Nxe5",
+      "d6",
+      "Nc4"
+    ],
     "moves": [
       "Qf6",
       "d3",
@@ -112,6 +172,15 @@
     "whiteElo": 1594,
     "blackElo": 1584,
     "startFen": "r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/3P3P/PPP2PP1/RNBQK1NR b KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Bc4",
+      "Nc6",
+      "d3",
+      "Bc5",
+      "h3"
+    ],
     "moves": [
       "Qf6",
       "a3",
@@ -127,6 +196,14 @@
     "whiteElo": 1500,
     "blackElo": 1716,
     "startFen": "rnbqkbnr/1p1ppppp/2p5/8/p1BPP3/8/PPP2PPP/RNBQK1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "a5",
+      "d4",
+      "a4",
+      "Bc4",
+      "c6"
+    ],
     "moves": [
       "Qh5",
       "b5",
@@ -142,6 +219,15 @@
     "whiteElo": 1414,
     "blackElo": 1379,
     "startFen": "rnb1kbnr/pppp1ppp/8/8/2B1Pp1q/8/PPPP2PP/RNBQ1KNR b kq - 3 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "f4",
+      "exf4",
+      "Bc4",
+      "Qh4+",
+      "Kf1"
+    ],
     "moves": [
       "Bc5",
       "Nf3",
@@ -157,6 +243,14 @@
     "whiteElo": 1472,
     "blackElo": 1413,
     "startFen": "r1bqkb1r/ppppnppp/2n5/4p3/2B1P3/3P4/PPP2PPP/RNBQK1NR w KQkq - 1 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Bc4",
+      "Ne7",
+      "d3",
+      "Nbc6"
+    ],
     "moves": [
       "Qf3",
       "Nd4",
@@ -172,6 +266,14 @@
     "whiteElo": 1773,
     "blackElo": 1770,
     "startFen": "rnbqkbnr/pp1pp2p/2p2pp1/4P3/5P2/8/PPPP2PP/RNBQKBNR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "c6",
+      "f4",
+      "f6",
+      "e5",
+      "g6"
+    ],
     "moves": [
       "f5",
       "gxf5",
@@ -187,6 +289,15 @@
     "whiteElo": 1036,
     "blackElo": 910,
     "startFen": "rnb1k1nr/pppp1ppp/8/2b1p3/2B1P2q/2N3P1/PPPP1P1P/R1BQK1NR b KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Bc4",
+      "Bc5",
+      "Nc3",
+      "Qh4",
+      "g3"
+    ],
     "moves": [
       "Qf6",
       "Nd5",
@@ -202,6 +313,15 @@
     "whiteElo": 1667,
     "blackElo": 1592,
     "startFen": "rnb1k1nr/pppp1ppp/4pq2/2b5/3PP3/5P2/PPP1B1PP/RNBQK1NR b KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e6",
+      "f3",
+      "Bc5",
+      "Be2",
+      "Qf6",
+      "d4"
+    ],
     "moves": [
       "Qxd4",
       "Bd3",
@@ -217,6 +337,14 @@
     "whiteElo": 1517,
     "blackElo": 1530,
     "startFen": "rnbqkb1r/ppppp2p/5n2/5Pp1/8/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 4",
+    "setupMoves": [
+      "e4",
+      "f5",
+      "exf5",
+      "g5",
+      "Nc3",
+      "Nf6"
+    ],
     "moves": [
       "Bc4",
       "Nh5",
@@ -232,6 +360,15 @@
     "whiteElo": 554,
     "blackElo": 1014,
     "startFen": "rnb1k1nr/pppp1ppp/5q2/2b1p3/4P1PP/5N2/PPPP1P2/RNBQKB1R b KQkq - 2 4",
+    "setupMoves": [
+      "h4",
+      "e5",
+      "g4",
+      "Bc5",
+      "e4",
+      "Qf6",
+      "Nf3"
+    ],
     "moves": [
       "Qf4",
       "Nxe5",
@@ -247,6 +384,15 @@
     "whiteElo": 933,
     "blackElo": 891,
     "startFen": "rnb1kbnr/pp1p1ppp/2p2q2/4p3/4P3/2NP3N/PPP2PPP/R1BQKB1R b KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Nc3",
+      "c6",
+      "Nh3",
+      "Qf6",
+      "d3"
+    ],
     "moves": [
       "Bc5",
       "Ng5",
@@ -262,6 +408,14 @@
     "whiteElo": 1525,
     "blackElo": 1539,
     "startFen": "r1bqkb1r/pppppppp/5n2/4n3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 5 4",
+    "setupMoves": [
+      "e4",
+      "Nc6",
+      "Bc4",
+      "Nf6",
+      "Nf3",
+      "Ne5"
+    ],
     "moves": [
       "Nxe5",
       "d6",
@@ -277,6 +431,14 @@
     "whiteElo": 721,
     "blackElo": 522,
     "startFen": "r1bqkbnr/pppppp1p/6p1/2n5/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4",
+    "setupMoves": [
+      "e4",
+      "g6",
+      "Bc4",
+      "Na6",
+      "Nf3",
+      "Nc5"
+    ],
     "moves": [
       "Ne5",
       "Nxe4",
@@ -292,6 +454,15 @@
     "whiteElo": 1387,
     "blackElo": 1464,
     "startFen": "rnbqk1nr/ppp2ppp/3p4/2b1p3/2B1P3/2NP4/PPP2PPP/R1BQK1NR b KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Nc3",
+      "Bc5",
+      "Bc4",
+      "d6",
+      "d3"
+    ],
     "moves": [
       "Qh4",
       "Nf3",
@@ -307,6 +478,15 @@
     "whiteElo": 1510,
     "blackElo": 1499,
     "startFen": "rnbqk1nr/pppp1ppp/8/2b5/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Nf3",
+      "Bc5",
+      "d4",
+      "exd4",
+      "Nxd4"
+    ],
     "moves": [
       "Qh4",
       "Nf3",
@@ -322,6 +502,14 @@
     "whiteElo": 1359,
     "blackElo": 1314,
     "startFen": "r1bqkbnr/pppp1p1p/2n3p1/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Qh5",
+      "Nc6",
+      "Bc4",
+      "g6"
+    ],
     "moves": [
       "Qf3",
       "Nd4",
@@ -337,6 +525,14 @@
     "whiteElo": 636,
     "blackElo": 696,
     "startFen": "rnbqkb1r/pppppp1p/6p1/7Q/2B1n3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "Nf6",
+      "Bc4",
+      "Nxe4",
+      "Qh5",
+      "g6"
+    ],
     "moves": [
       "Qd5",
       "c6",
@@ -352,6 +548,15 @@
     "whiteElo": 1096,
     "blackElo": 1025,
     "startFen": "rnbqkbnr/ppp1pppp/8/8/8/3p1Q2/PPP2PPP/RNB1KBNR b KQkq - 1 4",
+    "setupMoves": [
+      "d3",
+      "d5",
+      "e4",
+      "dxe4",
+      "Qh5",
+      "exd3",
+      "Qf3"
+    ],
     "moves": [
       "dxc2",
       "Qc3",
@@ -367,6 +572,15 @@
     "whiteElo": 596,
     "blackElo": 1283,
     "startFen": "rnb1k1nr/pppp1ppp/5q2/2b1p3/2P1P3/2N5/PPQP1PPP/R1B1KBNR b KQkq - 2 4",
+    "setupMoves": [
+      "c4",
+      "e5",
+      "Qc2",
+      "Bc5",
+      "e4",
+      "Qf6",
+      "Nc3"
+    ],
     "moves": [
       "Qxf2+",
       "Kd1",
@@ -382,6 +596,14 @@
     "whiteElo": 761,
     "blackElo": 744,
     "startFen": "rnbqkb1r/1pppnppp/p7/4p3/2B1P3/2P5/PP1P1PPP/RNBQK1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Bc4",
+      "Ne7",
+      "c3",
+      "a6"
+    ],
     "moves": [
       "Qb3",
       "b5",
@@ -397,6 +619,14 @@
     "whiteElo": 1095,
     "blackElo": 1463,
     "startFen": "rn1qkbnr/pbpp1ppp/1p2p3/8/2B1P3/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "b6",
+      "Qf3",
+      "Bb7",
+      "Bc4",
+      "e6"
+    ],
     "moves": [
       "Nh3",
       "e5",
@@ -412,6 +642,15 @@
     "whiteElo": 899,
     "blackElo": 894,
     "startFen": "rnbqkb1r/pppp1ppp/8/4N3/2B1n3/8/PPPP1PPP/RNBQK2R b KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Nf3",
+      "Nf6",
+      "Bc4",
+      "Nxe4",
+      "Nxe5"
+    ],
     "moves": [
       "Qf6",
       "Nxf7",
@@ -427,6 +666,14 @@
     "whiteElo": 1242,
     "blackElo": 1238,
     "startFen": "rnbqkbnr/ppp2ppp/4p3/4N3/4p3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e6",
+      "Nf3",
+      "d5",
+      "Ne5",
+      "dxe4"
+    ],
     "moves": [
       "Qh5",
       "Nf6",
@@ -442,6 +689,14 @@
     "whiteElo": 608,
     "blackElo": 616,
     "startFen": "r1bqkbnr/pppp1p1p/2n3p1/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Qh5",
+      "Nc6",
+      "Bc4",
+      "g6"
+    ],
     "moves": [
       "Qf3",
       "Bc5",
@@ -457,6 +712,14 @@
     "whiteElo": 874,
     "blackElo": 835,
     "startFen": "r1bqkbnr/pppp1p1p/2n3p1/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Qh5",
+      "Nc6",
+      "Bc4",
+      "g6"
+    ],
     "moves": [
       "Qf3",
       "Nd4",
@@ -472,6 +735,15 @@
     "whiteElo": 1955,
     "blackElo": 1041,
     "startFen": "rnb1k1nr/pppp1ppp/5q2/2b1p3/4P3/2NP4/PPP1NPPP/R1BQKB1R b KQkq - 2 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Nc3",
+      "Bc5",
+      "d3",
+      "Qf6",
+      "Nge2"
+    ],
     "moves": [
       "Qxf2+",
       "Kd2",
@@ -487,6 +759,15 @@
     "whiteElo": 741,
     "blackElo": 671,
     "startFen": "rnb1k1nr/pppp1ppp/5q2/2b1p3/4P2Q/6P1/PPPP1P1P/RNB1KBNR b KQkq - 4 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "g3",
+      "Bc5",
+      "Qh5",
+      "Qf6",
+      "Qh4"
+    ],
     "moves": [
       "Qxf2+",
       "Kd1",
@@ -502,6 +783,14 @@
     "whiteElo": 855,
     "blackElo": 965,
     "startFen": "r1bqkbnr/pp1p1ppp/2n5/2p1p3/2B1P3/2P5/PP1P1PPP/RNBQK1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "c5",
+      "c3",
+      "Nc6",
+      "Bc4",
+      "e5"
+    ],
     "moves": [
       "Qf3",
       "d6",
@@ -517,6 +806,14 @@
     "whiteElo": 772,
     "blackElo": 782,
     "startFen": "rnbqkb1r/pppp1ppp/8/4p3/2B1n1P1/8/PPPP1P1P/RNBQK1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Bc4",
+      "Nf6",
+      "g4",
+      "Nxe4"
+    ],
     "moves": [
       "Qf3",
       "Nc5",
@@ -532,6 +829,14 @@
     "whiteElo": 1563,
     "blackElo": 1523,
     "startFen": "r1bqkbnr/pppppppp/8/7Q/2B1P3/8/PPnP1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "Nc6",
+      "Bc4",
+      "Nd4",
+      "Qh5",
+      "Nxc2+"
+    ],
     "moves": [
       "Kd1",
       "Nxa1",
@@ -547,6 +852,15 @@
     "whiteElo": 1423,
     "blackElo": 1409,
     "startFen": "r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/2NP4/PPP2PPP/R1BQK1NR b KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Bc4",
+      "Nc6",
+      "Nc3",
+      "Bc5",
+      "d3"
+    ],
     "moves": [
       "Qf6",
       "Nd5",
@@ -562,6 +876,15 @@
     "whiteElo": 1071,
     "blackElo": 1016,
     "startFen": "rnb1k1nr/pppp1ppp/5q2/2b1p3/4P1P1/3P1P2/PPP4P/RNBQKBNR b KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "d3",
+      "Bc5",
+      "f3",
+      "Qf6",
+      "g4"
+    ],
     "moves": [
       "Qh4+",
       "Ke2",
@@ -577,6 +900,15 @@
     "whiteElo": 748,
     "blackElo": 747,
     "startFen": "rnbqkb1r/pppp1ppp/8/4N3/2B1n3/8/PPPP1PPP/RNBQK2R b KQkq - 1 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Nf3",
+      "Nf6",
+      "Nxe5",
+      "Nxe4",
+      "Bc4"
+    ],
     "moves": [
       "Qf6",
       "Nxf7",
@@ -592,6 +924,14 @@
     "whiteElo": 807,
     "blackElo": 475,
     "startFen": "rnbqkbnr/pp1p1p1p/8/2p1p1pQ/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Bc4",
+      "c5",
+      "Qh5",
+      "g5"
+    ],
     "moves": [
       "Qf3",
       "g4",
@@ -607,6 +947,14 @@
     "whiteElo": 1016,
     "blackElo": 777,
     "startFen": "r1bqkb1r/pppppppp/7n/8/1nB1P3/3P4/PPP2PPP/RNBQK1NR w KQkq - 1 4",
+    "setupMoves": [
+      "e4",
+      "Na6",
+      "Bc4",
+      "Nh6",
+      "d3",
+      "Nb4"
+    ],
     "moves": [
       "Qf3",
       "Ng4",
@@ -622,6 +970,14 @@
     "whiteElo": 939,
     "blackElo": 823,
     "startFen": "rnbqkb1r/pppppppp/8/4P3/2B2n2/8/PPPP1PPP/RNBQK1NR w KQkq - 3 4",
+    "setupMoves": [
+      "e4",
+      "Nf6",
+      "e5",
+      "Nd5",
+      "Bc4",
+      "Nf4"
+    ],
     "moves": [
       "Qf3",
       "Ng6",
@@ -637,6 +993,15 @@
     "whiteElo": 784,
     "blackElo": 908,
     "startFen": "rnbqkbnr/ppp2pp1/3p3p/4p1N1/6P1/5P2/PPPPP2P/RNBQKB1R b KQkq - 1 4",
+    "setupMoves": [
+      "Nh3",
+      "e5",
+      "g4",
+      "d6",
+      "f3",
+      "h6",
+      "Ng5"
+    ],
     "moves": [
       "Qxg5",
       "h3",
@@ -652,6 +1017,15 @@
     "whiteElo": 840,
     "blackElo": 707,
     "startFen": "rnbqkb1r/pppp1ppp/8/4p3/4P1n1/2NP1P2/PPP3PP/R1BQKBNR b KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "Nf6",
+      "Nc3",
+      "e5",
+      "d3",
+      "Ng4",
+      "f3"
+    ],
     "moves": [
       "Qh4+",
       "Ke2",
@@ -667,6 +1041,14 @@
     "whiteElo": 808,
     "blackElo": 783,
     "startFen": "rnbqk2r/ppppppbp/5np1/8/2B1P3/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 4 4",
+    "setupMoves": [
+      "e4",
+      "g6",
+      "Bc4",
+      "Bg7",
+      "Qf3",
+      "Nf6"
+    ],
     "moves": [
       "e5",
       "Nh5",
@@ -682,6 +1064,15 @@
     "whiteElo": 1046,
     "blackElo": 1062,
     "startFen": "rnb1kbnr/pppp1ppp/5q2/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "d4",
+      "Qf6",
+      "Nf3",
+      "exd4",
+      "Nxd4"
+    ],
     "moves": [
       "Bc5",
       "Nb5",
@@ -697,6 +1088,15 @@
     "whiteElo": 1166,
     "blackElo": 1232,
     "startFen": "rnbqkb1r/pppp1ppp/8/3Bp3/6n1/2N5/PPPPPP1P/R1BQK1NR b KQkq - 1 4",
+    "setupMoves": [
+      "g4",
+      "e5",
+      "Bg2",
+      "Nf6",
+      "Nc3",
+      "Nxg4",
+      "Bd5"
+    ],
     "moves": [
       "Qh4",
       "Nf3",
@@ -712,6 +1112,14 @@
     "whiteElo": 1798,
     "blackElo": 1086,
     "startFen": "rnbqk1nr/p1pp1ppp/8/1B2p3/1b2P3/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 1 4",
+    "setupMoves": [
+      "e4",
+      "b5",
+      "Qf3",
+      "e5",
+      "Bxb5",
+      "Bb4"
+    ],
     "moves": [
       "Bc4",
       "Ba3",
@@ -727,6 +1135,14 @@
     "whiteElo": 808,
     "blackElo": 839,
     "startFen": "r1bqkbnr/pppp1p1p/2n3p1/4p2Q/2B5/4P3/PPPP1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e3",
+      "e5",
+      "Bc4",
+      "Nc6",
+      "Qh5",
+      "g6"
+    ],
     "moves": [
       "Qf3",
       "d6",
@@ -742,6 +1158,15 @@
     "whiteElo": 1492,
     "blackElo": 1442,
     "startFen": "rnbqk1nr/pppp1pBp/8/2b5/8/8/P1PPPPPP/RN1QKBNR b KQkq - 0 4",
+    "setupMoves": [
+      "b4",
+      "e5",
+      "Bb2",
+      "Bxb4",
+      "Bxe5",
+      "Bc5",
+      "Bxg7"
+    ],
     "moves": [
       "Qh4",
       "Nf3",
@@ -757,6 +1182,14 @@
     "whiteElo": 988,
     "blackElo": 977,
     "startFen": "r1bqkbnr/pppp1p1p/2n3p1/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Bc4",
+      "Nc6",
+      "Qh5",
+      "g6"
+    ],
     "moves": [
       "Qf3",
       "Nge7",
@@ -772,6 +1205,14 @@
     "whiteElo": 928,
     "blackElo": 981,
     "startFen": "rn1qkbnr/1bpppppp/1p6/p7/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "b6",
+      "Nf3",
+      "Bb7",
+      "Bc4",
+      "a5"
+    ],
     "moves": [
       "Ng5",
       "c6",
@@ -787,6 +1228,14 @@
     "whiteElo": 1334,
     "blackElo": 1456,
     "startFen": "rnb1kbnr/1pqppppp/p7/2p4Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "c5",
+      "Bc4",
+      "Qc7",
+      "Qh5",
+      "a6"
+    ],
     "moves": [
       "Qxf7+",
       "Kd8",
@@ -802,6 +1251,14 @@
     "whiteElo": 890,
     "blackElo": 924,
     "startFen": "r1bqkbnr/pppp1p1p/2n3p1/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Qh5",
+      "Nc6",
+      "Bc4",
+      "g6"
+    ],
     "moves": [
       "Qf3",
       "Bh6",
@@ -817,6 +1274,15 @@
     "whiteElo": 2024,
     "blackElo": 2090,
     "startFen": "rnbqkbnr/pp3ppp/2p5/3pp3/8/4P1K1/PPPP1PPP/RNBQ1BNR b kq - 1 4",
+    "setupMoves": [
+      "e3",
+      "c6",
+      "Ke2",
+      "d5",
+      "Kf3",
+      "e5",
+      "Kg3"
+    ],
     "moves": [
       "e4",
       "Kf4",
@@ -832,6 +1298,14 @@
     "whiteElo": 739,
     "blackElo": 776,
     "startFen": "r1bqkbnr/1ppp1ppp/p1n5/4p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR w KQkq - 2 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Bc4",
+      "a6",
+      "Nc3",
+      "Nc6"
+    ],
     "moves": [
       "Qf3",
       "Nd4",
@@ -847,6 +1321,15 @@
     "whiteElo": 1094,
     "blackElo": 1141,
     "startFen": "rnbqkb1r/pppp1ppp/8/1B2N3/4n3/8/PPPP1PPP/RNBQK2R b KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Nf3",
+      "Nf6",
+      "Bb5",
+      "Nxe4",
+      "Nxe5"
+    ],
     "moves": [
       "Qf6",
       "d4",
@@ -862,6 +1345,14 @@
     "whiteElo": 883,
     "blackElo": 836,
     "startFen": "rnbqkb1r/pppp1ppp/8/4N3/4n3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Nf3",
+      "Nf6",
+      "Nxe5",
+      "Nxe4"
+    ],
     "moves": [
       "Qf3",
       "d5",
@@ -877,6 +1368,15 @@
     "whiteElo": 666,
     "blackElo": 686,
     "startFen": "rn1qkbnr/ppp2ppp/4p3/3p1b1P/5P1R/8/PPPPP1P1/RNBQKBN1 b Qkq - 1 4",
+    "setupMoves": [
+      "f4",
+      "d5",
+      "h4",
+      "Bf5",
+      "h5",
+      "e6",
+      "Rh4"
+    ],
     "moves": [
       "Be7",
       "g4",
@@ -892,6 +1392,15 @@
     "whiteElo": 1155,
     "blackElo": 1146,
     "startFen": "rnbqk1nr/pppp1ppp/8/4p3/2BbP3/5N2/PPP2PPP/RNBQK2R b KQkq - 1 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Nf3",
+      "Bc5",
+      "d4",
+      "Bxd4",
+      "Bc4"
+    ],
     "moves": [
       "Qf6",
       "Ng5",
@@ -907,6 +1416,14 @@
     "whiteElo": 875,
     "blackElo": 841,
     "startFen": "r1bqkbnr/pppp1p1p/2n3p1/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Qh5",
+      "Nc6",
+      "Bc4",
+      "g6"
+    ],
     "moves": [
       "Qf3",
       "d6",
@@ -922,6 +1439,15 @@
     "whiteElo": 1092,
     "blackElo": 1136,
     "startFen": "rnbqk1nr/pp1p1ppp/4p3/2b3B1/8/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 4",
+    "setupMoves": [
+      "d4",
+      "e6",
+      "Nf3",
+      "c5",
+      "dxc5",
+      "Bxc5",
+      "Bg5"
+    ],
     "moves": [
       "Qb6",
       "Nbd2",
@@ -937,6 +1463,14 @@
     "whiteElo": 904,
     "blackElo": 1538,
     "startFen": "r1bqkbnr/pppp1p1p/2n3p1/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Bc4",
+      "Nc6",
+      "Qh5",
+      "g6"
+    ],
     "moves": [
       "Qf3",
       "Nd4",
@@ -952,6 +1486,14 @@
     "whiteElo": 828,
     "blackElo": 808,
     "startFen": "rnbqkbnr/1ppp1p1p/6p1/p3p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Bc4",
+      "a5",
+      "Qh5",
+      "g6"
+    ],
     "moves": [
       "Qf3",
       "h5",
@@ -967,6 +1509,15 @@
     "whiteElo": 1000,
     "blackElo": 958,
     "startFen": "rnbqkb1r/pppp1ppp/8/4N3/3Pn3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Nf3",
+      "Nf6",
+      "Nxe5",
+      "Nxe4",
+      "d4"
+    ],
     "moves": [
       "Qf6",
       "Nc3",
@@ -982,6 +1533,15 @@
     "whiteElo": 2209,
     "blackElo": 2209,
     "startFen": "r1b1kbnr/ppppqppp/2n5/4P3/5B2/2P5/PP2PPPP/RN1QKBNR b KQkq - 0 4",
+    "setupMoves": [
+      "d4",
+      "e5",
+      "dxe5",
+      "Nc6",
+      "Bf4",
+      "Qe7",
+      "c3"
+    ],
     "moves": [
       "Nxe5",
       "Nd2",
@@ -997,6 +1557,14 @@
     "whiteElo": 1841,
     "blackElo": 1814,
     "startFen": "r1bqkbnr/pp1ppp1p/2n3p1/2p4Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "c5",
+      "Bc4",
+      "Nc6",
+      "Qh5",
+      "g6"
+    ],
     "moves": [
       "Qf3",
       "Bg7",
@@ -1012,6 +1580,15 @@
     "whiteElo": 1541,
     "blackElo": 1551,
     "startFen": "rnbqk2r/pppp1ppp/5P2/2b5/4P3/8/PPP2PPP/RNBQKBNR b KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "d4",
+      "Nf6",
+      "dxe5",
+      "Bc5",
+      "exf6"
+    ],
     "moves": [
       "Qxf6",
       "Nc3",
@@ -1027,6 +1604,14 @@
     "whiteElo": 777,
     "blackElo": 743,
     "startFen": "r1bqkbnr/ppp2ppp/2np4/4p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR w KQkq - 2 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Nc3",
+      "d6",
+      "Bc4",
+      "Nc6"
+    ],
     "moves": [
       "Qf3",
       "g6",
@@ -1042,6 +1627,15 @@
     "whiteElo": 1316,
     "blackElo": 1332,
     "startFen": "rnbqk1nr/pp1p1ppp/2p5/2b1N3/4P3/2N5/PPPP1PPP/R1BQKB1R b KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Nc3",
+      "Bc5",
+      "Nf3",
+      "c6",
+      "Nxe5"
+    ],
     "moves": [
       "Qh4",
       "Nf3",
@@ -1057,6 +1651,14 @@
     "whiteElo": 895,
     "blackElo": 400,
     "startFen": "1nbqkbnr/r1pppppp/1p6/p7/2B1P3/8/PPPPQPPP/RNB1K1NR w KQk - 0 4",
+    "setupMoves": [
+      "e4",
+      "a5",
+      "Bc4",
+      "Ra7",
+      "Qe2",
+      "b6"
+    ],
     "moves": [
       "Qf3",
       "c6",
@@ -1072,6 +1674,14 @@
     "whiteElo": 772,
     "blackElo": 705,
     "startFen": "rnbqkb1r/pppp1ppp/8/4N3/4n3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Nf3",
+      "Nf6",
+      "Nxe5",
+      "Nxe4"
+    ],
     "moves": [
       "Qf3",
       "Bd6",
@@ -1087,6 +1697,14 @@
     "whiteElo": 1282,
     "blackElo": 1226,
     "startFen": "rnbqkbnr/ppp1p1p1/7p/3pNp2/8/4P3/PPPP1PPP/RNBQKB1R w KQkq - 0 4",
+    "setupMoves": [
+      "e3",
+      "d5",
+      "Nf3",
+      "f5",
+      "Ne5",
+      "h6"
+    ],
     "moves": [
       "Qh5+",
       "g6",
@@ -1102,6 +1720,15 @@
     "whiteElo": 563,
     "blackElo": 863,
     "startFen": "rnbqk1nr/pppp1ppp/1b6/4p3/1P4P1/8/PBPPPPBP/RN1QK1NR b KQkq - 2 4",
+    "setupMoves": [
+      "g4",
+      "e5",
+      "Bg2",
+      "Bc5",
+      "b4",
+      "Bb6",
+      "Bb2"
+    ],
     "moves": [
       "Qf6",
       "Bxe5",
@@ -1117,6 +1744,14 @@
     "whiteElo": 1276,
     "blackElo": 1290,
     "startFen": "r1bqkbnr/p1pppp1p/1pn3p1/8/2B1P3/3P4/PPP2PPP/RNBQK1NR w KQkq - 1 4",
+    "setupMoves": [
+      "e4",
+      "b6",
+      "Bc4",
+      "g6",
+      "d3",
+      "Nc6"
+    ],
     "moves": [
       "Qf3",
       "g5",
@@ -1132,6 +1767,14 @@
     "whiteElo": 1702,
     "blackElo": 1582,
     "startFen": "rnbqkbnr/ppppp2p/6p1/4N3/4p3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "f5",
+      "Nf3",
+      "fxe4",
+      "Ne5",
+      "g6"
+    ],
     "moves": [
       "Bc4",
       "Nf6",
@@ -1147,6 +1790,14 @@
     "whiteElo": 947,
     "blackElo": 905,
     "startFen": "rnbqkbnr/ppp1pp2/7p/3p2p1/3P4/4PN2/PPP2PPP/RNBQKB1R w KQkq - 0 4",
+    "setupMoves": [
+      "d4",
+      "d5",
+      "e3",
+      "h6",
+      "Nf3",
+      "g5"
+    ],
     "moves": [
       "Ne5",
       "f6",
@@ -1162,6 +1813,14 @@
     "whiteElo": 726,
     "blackElo": 771,
     "startFen": "r1bqkbnr/pppp1p1p/2n3p1/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Bc4",
+      "Nc6",
+      "Qh5",
+      "g6"
+    ],
     "moves": [
       "Qf3",
       "Nge7",
@@ -1177,6 +1836,14 @@
     "whiteElo": 625,
     "blackElo": 794,
     "startFen": "rnbqkb1r/pppp1pp1/5n1p/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 2 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Bc4",
+      "h6",
+      "Qf3",
+      "Nf6"
+    ],
     "moves": [
       "Bb3",
       "Nh5",
@@ -1192,6 +1859,14 @@
     "whiteElo": 724,
     "blackElo": 652,
     "startFen": "rnbqkbnr/ppp2p1p/3p2p1/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Qh5",
+      "d6",
+      "Bc4",
+      "g6"
+    ],
     "moves": [
       "Qf3",
       "h5",
@@ -1207,6 +1882,14 @@
     "whiteElo": 1270,
     "blackElo": 1194,
     "startFen": "rnbqkbn1/ppppppp1/5r2/7p/2B1P3/5Q2/PPPP1PPP/RNB1K1NR w KQq - 4 4",
+    "setupMoves": [
+      "e4",
+      "h5",
+      "Bc4",
+      "Rh6",
+      "Qf3",
+      "Rf6"
+    ],
     "moves": [
       "Qxh5",
       "Rh6",
@@ -1222,6 +1905,14 @@
     "whiteElo": 1630,
     "blackElo": 1674,
     "startFen": "rnbqkbnr/ppppp1p1/7p/8/4P3/8/PPP2PPP/RNBQKBNR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "f5",
+      "d3",
+      "fxe4",
+      "dxe4",
+      "h6"
+    ],
     "moves": [
       "Qh5+",
       "g6",
@@ -1237,6 +1928,15 @@
     "whiteElo": 2091,
     "blackElo": 2033,
     "startFen": "r1bqk1nr/pppp1ppp/2n5/2b1p3/4P3/2N3P1/PPPP1PBP/R1BQK1NR b KQkq - 2 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Nc3",
+      "Nc6",
+      "g3",
+      "Bc5",
+      "Bg2"
+    ],
     "moves": [
       "Qf6",
       "Nge2",
@@ -1252,6 +1952,14 @@
     "whiteElo": 1930,
     "blackElo": 1845,
     "startFen": "rnbqkbnr/ppppp3/7p/5pp1/3P3B/8/PPP1PPPP/RN1QKBNR w KQkq - 0 4",
+    "setupMoves": [
+      "d4",
+      "f5",
+      "Bg5",
+      "h6",
+      "Bh4",
+      "g5"
+    ],
     "moves": [
       "e3",
       "f4",
@@ -1267,6 +1975,14 @@
     "whiteElo": 2044,
     "blackElo": 2704,
     "startFen": "rnbqkbnr/pp2ppp1/2ppB2p/8/4P3/8/PPPP1PPP/RNBQK1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "c6",
+      "Bc4",
+      "d6",
+      "Be6",
+      "h6"
+    ],
     "moves": [
       "Qh5",
       "g5",
@@ -1282,6 +1998,15 @@
     "whiteElo": 1093,
     "blackElo": 1014,
     "startFen": "rnb1kbnr/pppp1ppp/5q2/8/4P3/8/PPP2PPP/RNBQKBNR b KQkq - 2 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "d4",
+      "exd4",
+      "Qxd4",
+      "Qf6",
+      "Qd1"
+    ],
     "moves": [
       "Bc5",
       "Nc3",
@@ -1297,6 +2022,15 @@
     "whiteElo": 894,
     "blackElo": 1052,
     "startFen": "rnbqk2r/pppp1ppp/7n/2b1P3/2B1P3/8/PPPP2PP/RNBQK1NR b KQkq - 2 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "f4",
+      "Bc5",
+      "fxe5",
+      "Nh6",
+      "Bc4"
+    ],
     "moves": [
       "Qh4+",
       "Kf1",
@@ -1312,6 +2046,15 @@
     "whiteElo": 1336,
     "blackElo": 1450,
     "startFen": "rnb1k1nr/pppp1ppp/8/2b1p3/4PP1q/2N3P1/PPPP3P/R1BQKBNR b KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Nc3",
+      "Bc5",
+      "f4",
+      "Qh4+",
+      "g3"
+    ],
     "moves": [
       "Qf6",
       "fxe5",
@@ -1327,6 +2070,14 @@
     "whiteElo": 2119,
     "blackElo": 2183,
     "startFen": "rn1qkbnr/pbp1pppp/1p1p4/8/4P3/2N2Q2/PPPP1PPP/R1B1KBNR w KQkq - 2 4",
+    "setupMoves": [
+      "e4",
+      "d6",
+      "Nc3",
+      "b6",
+      "Qf3",
+      "Bb7"
+    ],
     "moves": [
       "Bc4",
       "Nd7",
@@ -1342,6 +2093,14 @@
     "whiteElo": 903,
     "blackElo": 933,
     "startFen": "rnbqkbnr/ppppp1pp/8/8/2B5/3p4/PPP2PPP/RNBQK1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "f5",
+      "Bc4",
+      "fxe4",
+      "d3",
+      "exd3"
+    ],
     "moves": [
       "Qf3",
       "dxc2",
@@ -1357,6 +2116,14 @@
     "whiteElo": 1062,
     "blackElo": 1051,
     "startFen": "r1bqkbnr/ppp2ppp/2np4/4p2Q/4P3/5N2/PPPP1PPP/RNB1KB1R w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Qh5",
+      "Nc6",
+      "Nf3",
+      "d6"
+    ],
     "moves": [
       "Bc4",
       "Nf6",
@@ -1372,6 +2139,14 @@
     "whiteElo": 1055,
     "blackElo": 1146,
     "startFen": "1rbqkbnr/pppppppp/8/n5N1/4P3/8/PPPP1PPP/RNBQKB1R w KQk - 5 4",
+    "setupMoves": [
+      "e4",
+      "Nc6",
+      "Nf3",
+      "Rb8",
+      "Ng5",
+      "Na5"
+    ],
     "moves": [
       "Qf3",
       "Nc4",
@@ -1387,6 +2162,14 @@
     "whiteElo": 764,
     "blackElo": 722,
     "startFen": "rnbq1bnr/ppp1kppp/3p4/4p3/4P3/5Q2/PPPP1PPP/RNB1KBNR w KQ - 2 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Qh5",
+      "d6",
+      "Qf3",
+      "Ke7"
+    ],
     "moves": [
       "Bc4",
       "Ke8",
@@ -1402,6 +2185,14 @@
     "whiteElo": 846,
     "blackElo": 775,
     "startFen": "r1bqkbnr/pppp1p1p/2n3p1/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Qh5",
+      "Nc6",
+      "Bc4",
+      "g6"
+    ],
     "moves": [
       "Qf3",
       "Bc5",
@@ -1417,6 +2208,14 @@
     "whiteElo": 884,
     "blackElo": 911,
     "startFen": "rnbqkb1r/pppp1ppp/8/4N3/4n3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Nf3",
+      "Nf6",
+      "Nxe5",
+      "Nxe4"
+    ],
     "moves": [
       "Qf3",
       "d6",
@@ -1432,6 +2231,14 @@
     "whiteElo": 1168,
     "blackElo": 1100,
     "startFen": "r1bqkbnr/ppp1pppp/2n5/8/2B5/4P3/PP1P1PPP/RNBQK1NR w KQkq - 1 4",
+    "setupMoves": [
+      "e3",
+      "d5",
+      "c4",
+      "dxc4",
+      "Bxc4",
+      "Nc6"
+    ],
     "moves": [
       "Qf3",
       "e5",
@@ -1447,6 +2254,15 @@
     "whiteElo": 768,
     "blackElo": 1053,
     "startFen": "rnb1k1nr/pppp1ppp/8/1Bb1p1q1/P3P3/8/RPPP1PPP/1NBQK1NR b Kkq - 2 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Bb5",
+      "Bc5",
+      "a4",
+      "Qg5",
+      "Ra2"
+    ],
     "moves": [
       "Qxg2",
       "a5",
@@ -1462,6 +2278,15 @@
     "whiteElo": 2235,
     "blackElo": 1540,
     "startFen": "r1b1kbnr/pppp1ppp/2n1p3/6q1/2B1P3/3P1Q2/PPP2PPP/RNB1K1NR b KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e6",
+      "Bc4",
+      "Qg5",
+      "Qf3",
+      "Nc6",
+      "d3"
+    ],
     "moves": [
       "Qxc1+",
       "Ke2",
@@ -1477,6 +2302,14 @@
     "whiteElo": 1692,
     "blackElo": 1705,
     "startFen": "r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR w KQkq - 4 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Bc4",
+      "Nc6",
+      "Nc3",
+      "Bc5"
+    ],
     "moves": [
       "Qh5",
       "d6",
@@ -1492,6 +2325,14 @@
     "whiteElo": 960,
     "blackElo": 896,
     "startFen": "rnbqkb1r/ppppn1pp/5p2/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 2 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Qf3",
+      "f6",
+      "Bc4",
+      "Ne7"
+    ],
     "moves": [
       "Qb3",
       "Nbc6",
@@ -1507,6 +2348,14 @@
     "whiteElo": 1319,
     "blackElo": 1295,
     "startFen": "rnbqk1nr/pppp1pbp/4p1p1/8/2B1P3/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "g6",
+      "Bc4",
+      "Bg7",
+      "Qf3",
+      "e6"
+    ],
     "moves": [
       "Bxe6",
       "d6",
@@ -1522,6 +2371,14 @@
     "whiteElo": 1402,
     "blackElo": 1431,
     "startFen": "rnbqkbnr/ppppp3/5p2/6pp/8/3PP3/PPP1BPPP/RNBQK1NR w KQkq - 0 4",
+    "setupMoves": [
+      "d3",
+      "f6",
+      "e3",
+      "h5",
+      "Be2",
+      "g5"
+    ],
     "moves": [
       "Bxh5+",
       "Rxh5",
@@ -1537,6 +2394,15 @@
     "whiteElo": 521,
     "blackElo": 996,
     "startFen": "rnb1k1nr/pppp1ppp/8/4p1q1/1bB1P3/7P/PPPP1PPR/RNBQK1N1 b Qkq - 2 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Bc4",
+      "Qg5",
+      "h3",
+      "Bb4",
+      "Rh2"
+    ],
     "moves": [
       "Qxd2+",
       "Kf1",
@@ -1552,6 +2418,15 @@
     "whiteElo": 591,
     "blackElo": 657,
     "startFen": "rnbqk1nr/pppp1ppp/8/1Bb1p3/4P3/2P5/PP1P1PPP/RNBQK1NR b KQkq - 2 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Bc4",
+      "Bb4",
+      "c3",
+      "Bc5",
+      "Bb5"
+    ],
     "moves": [
       "Qh4",
       "h3",
@@ -1567,6 +2442,15 @@
     "whiteElo": 832,
     "blackElo": 704,
     "startFen": "rnB1kbnr/ppp1pppp/8/3q4/3p3P/6P1/PPPPPP2/RNBQK1NR b KQkq - 0 4",
+    "setupMoves": [
+      "h4",
+      "d5",
+      "g3",
+      "d4",
+      "Bh3",
+      "Qd5",
+      "Bxc8"
+    ],
     "moves": [
       "Qxh1",
       "Bxb7",
@@ -1582,6 +2466,14 @@
     "whiteElo": 904,
     "blackElo": 1124,
     "startFen": "r1bqkbnr/pppp1p1p/2n3p1/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Qh5",
+      "Nc6",
+      "Bc4",
+      "g6"
+    ],
     "moves": [
       "Qf3",
       "Nge7",
@@ -1597,6 +2489,14 @@
     "whiteElo": 589,
     "blackElo": 559,
     "startFen": "rnbqkbnr/pp1p1p1p/2p3p1/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Bc4",
+      "c6",
+      "Qh5",
+      "g6"
+    ],
     "moves": [
       "Qf3",
       "b5",
@@ -1612,6 +2512,14 @@
     "whiteElo": 916,
     "blackElo": 931,
     "startFen": "r1bqkbnr/pppp2pp/2n2p2/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Qf3",
+      "Nc6",
+      "Bc4",
+      "f6"
+    ],
     "moves": [
       "Qb3",
       "Nge7",
@@ -1627,6 +2535,14 @@
     "whiteElo": 1171,
     "blackElo": 1192,
     "startFen": "rnbqkbnr/p1p1p1pp/1p1p1p2/8/8/1QP1P3/PP1P1PPP/RNB1KBNR w KQkq - 0 4",
+    "setupMoves": [
+      "c3",
+      "d6",
+      "e3",
+      "f6",
+      "Qb3",
+      "b6"
+    ],
     "moves": [
       "Bc4",
       "Bd7",
@@ -1642,6 +2558,15 @@
     "whiteElo": 817,
     "blackElo": 795,
     "startFen": "rnb1k1nr/pppp1ppp/8/2b1p3/2B1P2q/2N3P1/PPPP1P1P/R1BQK1NR b KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Nc3",
+      "Bc5",
+      "Bc4",
+      "Qh4",
+      "g3"
+    ],
     "moves": [
       "Qf6",
       "d3",
@@ -1657,6 +2582,15 @@
     "whiteElo": 1574,
     "blackElo": 1564,
     "startFen": "rnb1k1nr/pppp1ppp/5q2/2b1p3/4P3/2NP4/PPP1BPPP/R1BQK1NR b KQkq - 4 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "d3",
+      "Bc5",
+      "Nc3",
+      "Qf6",
+      "Be2"
+    ],
     "moves": [
       "Qxf2+",
       "Kd2",
@@ -1672,6 +2606,15 @@
     "whiteElo": 1781,
     "blackElo": 1814,
     "startFen": "rnbqk2r/pppp1ppp/5n2/2bPp3/2P5/5N2/PP2PPPP/RNBQKB1R b KQkq - 2 4",
+    "setupMoves": [
+      "d4",
+      "e5",
+      "d5",
+      "Nf6",
+      "c4",
+      "Bc5",
+      "Nf3"
+    ],
     "moves": [
       "Ne4",
       "Nc3",
@@ -1687,6 +2630,14 @@
     "whiteElo": 1030,
     "blackElo": 1115,
     "startFen": "r2qkbnr/pbpppppp/1pn5/8/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4",
+    "setupMoves": [
+      "e4",
+      "b6",
+      "Nf3",
+      "Bb7",
+      "Bc4",
+      "Nc6"
+    ],
     "moves": [
       "Ng5",
       "f6",
@@ -1702,6 +2653,14 @@
     "whiteElo": 754,
     "blackElo": 762,
     "startFen": "rnbqk1nr/pppp1p1p/6p1/2b1p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Bc4",
+      "Bc5",
+      "Qh5",
+      "g6"
+    ],
     "moves": [
       "Qf3",
       "c6",
@@ -1717,6 +2676,14 @@
     "whiteElo": 2035,
     "blackElo": 2063,
     "startFen": "r1bqkbnr/ppp2ppp/2np4/4p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Nc3",
+      "Nc6",
+      "Bc4",
+      "d6"
+    ],
     "moves": [
       "Qf3",
       "Nd4",
@@ -1732,6 +2699,15 @@
     "whiteElo": 1026,
     "blackElo": 1000,
     "startFen": "r1bqkbnr/ppp2ppp/2np4/4pP2/4P1P1/8/PPPP3P/RNBQKBNR b KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "f4",
+      "Nc6",
+      "f5",
+      "d6",
+      "g4"
+    ],
     "moves": [
       "Nd4",
       "c3",
@@ -1747,6 +2723,15 @@
     "whiteElo": 850,
     "blackElo": 719,
     "startFen": "rnb1k1nr/pppp1ppp/8/2b1p1q1/2B1P3/2N3P1/PPPP1P1P/R1BQK1NR b KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Bc4",
+      "Bc5",
+      "Nc3",
+      "Qg5",
+      "g3"
+    ],
     "moves": [
       "Qf6",
       "Nd5",
@@ -1762,6 +2747,14 @@
     "whiteElo": 1392,
     "blackElo": 1412,
     "startFen": "rnbqkbnr/ppppp3/5ppp/8/4P3/3P1N2/PPP2PPP/RNBQKB1R w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "h6",
+      "Nf3",
+      "g6",
+      "d3",
+      "f6"
+    ],
     "moves": [
       "Nh4",
       "g5",
@@ -1777,6 +2770,14 @@
     "whiteElo": 1146,
     "blackElo": 1156,
     "startFen": "rnbqkbnr/pppp2pp/8/5p2/2BpP3/8/PPP2PPP/RNBQK1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "d4",
+      "f5",
+      "Bc4",
+      "exd4"
+    ],
     "moves": [
       "Qf3",
       "fxe4",
@@ -1792,6 +2793,14 @@
     "whiteElo": 633,
     "blackElo": 632,
     "startFen": "rnbqk1nr/pp1p1ppp/2p5/4p3/1bB1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Bb5",
+      "c6",
+      "Bc4",
+      "Bb4"
+    ],
     "moves": [
       "Qh5",
       "Nf6",
@@ -1807,6 +2816,14 @@
     "whiteElo": 1013,
     "blackElo": 1078,
     "startFen": "rn1qkbnr/ppp1pppp/8/5b2/2B1p3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 4",
+    "setupMoves": [
+      "e4",
+      "d5",
+      "Nf3",
+      "dxe4",
+      "Bc4",
+      "Bf5"
+    ],
     "moves": [
       "Ne5",
       "Nd7",
@@ -1822,6 +2839,14 @@
     "whiteElo": 1471,
     "blackElo": 1492,
     "startFen": "r1bqkbnr/pp1ppp1p/2n3p1/2p5/2B1P3/3P4/PPP2PPP/RNBQK1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "c5",
+      "Bc4",
+      "Nc6",
+      "d3",
+      "g6"
+    ],
     "moves": [
       "Qf3",
       "Bg7",
@@ -1837,6 +2862,14 @@
     "whiteElo": 952,
     "blackElo": 1621,
     "startFen": "rnbqkb1r/pp1ppppp/8/2p1P3/2B1n3/8/PPPP1PPP/RNBQK1NR w KQkq - 1 4",
+    "setupMoves": [
+      "e4",
+      "c5",
+      "Bc4",
+      "Nf6",
+      "e5",
+      "Ne4"
+    ],
     "moves": [
       "Qh5",
       "Nxf2",
@@ -1852,6 +2885,15 @@
     "whiteElo": 890,
     "blackElo": 689,
     "startFen": "rnbqk1nr/ppp2ppp/3p4/2b1p3/4P3/2N3P1/PPPPNP1P/R1BQKB1R b KQkq - 1 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Ne2",
+      "Bc5",
+      "g3",
+      "d6",
+      "Nbc3"
+    ],
     "moves": [
       "Qf6",
       "Ng1",
@@ -1867,6 +2909,14 @@
     "whiteElo": 1022,
     "blackElo": 1044,
     "startFen": "r1bqkbnr/pppp1p1p/2n3p1/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Qh5",
+      "Nc6",
+      "Bc4",
+      "g6"
+    ],
     "moves": [
       "Qf3",
       "d6",
@@ -1882,6 +2932,14 @@
     "whiteElo": 606,
     "blackElo": 575,
     "startFen": "rnb1kbnr/pppp1ppp/8/4p3/2B1P3/5Q2/PPPP1PPq/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Bc4",
+      "Qh4",
+      "Qf3",
+      "Qxh2"
+    ],
     "moves": [
       "Qxf7+",
       "Kd8",
@@ -1897,6 +2955,15 @@
     "whiteElo": 1484,
     "blackElo": 1526,
     "startFen": "rnbqkb1r/pppp1ppp/8/4p3/2PP2n1/2N1P3/PP3PPP/R1BQKBNR b KQkq - 0 4",
+    "setupMoves": [
+      "c4",
+      "e5",
+      "Nc3",
+      "Nf6",
+      "e3",
+      "Ng4",
+      "d4"
+    ],
     "moves": [
       "Qf6",
       "h3",
@@ -1912,6 +2979,14 @@
     "whiteElo": 777,
     "blackElo": 905,
     "startFen": "rnbqkb1r/ppp2ppp/3p1n2/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 2 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Qh5",
+      "d6",
+      "Bc4",
+      "Nf6"
+    ],
     "moves": [
       "Qf3",
       "Ng8",
@@ -1927,6 +3002,14 @@
     "whiteElo": 1745,
     "blackElo": 1505,
     "startFen": "rn1qkbnr/ppp1pppp/8/4N3/4p1b1/8/PPPP1PPP/RNBQKB1R w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "d5",
+      "Nf3",
+      "Bg4",
+      "Ne5",
+      "dxe4"
+    ],
     "moves": [
       "Bc4",
       "Bxd1",
@@ -1942,6 +3025,15 @@
     "whiteElo": 931,
     "blackElo": 924,
     "startFen": "rnb1k1nr/pppp1ppp/8/2b1p3/2B1P2q/2N3P1/PPPP1P1P/R1BQK1NR b KQkq - 0 4",
+    "setupMoves": [
+      "Nc3",
+      "e5",
+      "e4",
+      "Bc5",
+      "Bc4",
+      "Qh4",
+      "g3"
+    ],
     "moves": [
       "Qf6",
       "d3",
@@ -1957,6 +3049,14 @@
     "whiteElo": 743,
     "blackElo": 642,
     "startFen": "rnbqk2r/ppppppbp/5np1/8/2B1P3/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 4 4",
+    "setupMoves": [
+      "e4",
+      "g6",
+      "Qf3",
+      "Bg7",
+      "Bc4",
+      "Nf6"
+    ],
     "moves": [
       "e5",
       "Nh5",
@@ -1972,6 +3072,15 @@
     "whiteElo": 1933,
     "blackElo": 1790,
     "startFen": "r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/P1N5/1PPP1PPP/R1BQK1NR b KQkq - 2 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Nc3",
+      "Nc6",
+      "a3",
+      "Bc5",
+      "Bc4"
+    ],
     "moves": [
       "Qh4",
       "d3",
@@ -1987,6 +3096,14 @@
     "whiteElo": 970,
     "blackElo": 973,
     "startFen": "rn1qkbnr/ppp2ppp/3pb3/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 2 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Qh5",
+      "d6",
+      "Bc4",
+      "Be6"
+    ],
     "moves": [
       "Bxe6",
       "Nf6",
@@ -2002,6 +3119,15 @@
     "whiteElo": 2197,
     "blackElo": 2212,
     "startFen": "rnbqk1nr/pp1p1ppp/4p3/2b5/8/2N5/PPPBPPPP/R2QKBNR b KQkq - 1 4",
+    "setupMoves": [
+      "d4",
+      "c5",
+      "dxc5",
+      "e6",
+      "Nc3",
+      "Bxc5",
+      "Bd2"
+    ],
     "moves": [
       "Qb6",
       "a3",
@@ -2017,6 +3143,15 @@
     "whiteElo": 1169,
     "blackElo": 1158,
     "startFen": "rnb1k1nr/pppp1ppp/5q2/2b1p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R b KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Nf3",
+      "Qf6",
+      "Bc4",
+      "Bc5",
+      "d3"
+    ],
     "moves": [
       "d6",
       "Ng5",
@@ -2032,6 +3167,14 @@
     "whiteElo": 985,
     "blackElo": 964,
     "startFen": "rnbqk1nr/ppp2ppp/3p4/2b1p3/2B1P3/3P4/PPP2PPP/RNBQK1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Bc4",
+      "Bc5",
+      "d3",
+      "d6"
+    ],
     "moves": [
       "Qf3",
       "Nc6",
@@ -2047,6 +3190,14 @@
     "whiteElo": 848,
     "blackElo": 734,
     "startFen": "r1bqkbnr/pppp1p1p/2n3p1/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Qh5",
+      "Nc6",
+      "Bc4",
+      "g6"
+    ],
     "moves": [
       "Qf3",
       "Bc5",
@@ -2062,6 +3213,14 @@
     "whiteElo": 1209,
     "blackElo": 1244,
     "startFen": "r1bqkbnr/pp1ppp1p/2n3p1/2p5/2B1P3/3P4/PPP2PPP/RNBQK1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "c5",
+      "Bc4",
+      "Nc6",
+      "d3",
+      "g6"
+    ],
     "moves": [
       "Qf3",
       "Bg7",
@@ -2077,6 +3236,14 @@
     "whiteElo": 1655,
     "blackElo": 1643,
     "startFen": "rnbqkbnr/2pp1ppp/p7/1B2p3/4P3/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Qf3",
+      "b5",
+      "Bxb5",
+      "a6"
+    ],
     "moves": [
       "Bc4",
       "c5",
@@ -2092,6 +3259,14 @@
     "whiteElo": 817,
     "blackElo": 752,
     "startFen": "r1bqkbnr/pppp1p1p/2n3p1/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Bc4",
+      "Nc6",
+      "Qh5",
+      "g6"
+    ],
     "moves": [
       "Qf3",
       "Nd4",
@@ -2107,6 +3282,14 @@
     "whiteElo": 1280,
     "blackElo": 1324,
     "startFen": "r1bqkbnr/pppp1p1p/2n3p1/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "Nc6",
+      "Bc4",
+      "e5",
+      "Qh5",
+      "g6"
+    ],
     "moves": [
       "Qf3",
       "b6",
@@ -2122,6 +3305,15 @@
     "whiteElo": 799,
     "blackElo": 1125,
     "startFen": "rnb1kbnr/pppp1ppp/5q2/3P4/8/8/PPP2PPP/RNBQKBNR b KQkq - 0 4",
+    "setupMoves": [
+      "d4",
+      "e5",
+      "e3",
+      "exd4",
+      "exd4",
+      "Qf6",
+      "d5"
+    ],
     "moves": [
       "Bc5",
       "d6",
@@ -2137,6 +3329,14 @@
     "whiteElo": 798,
     "blackElo": 1500,
     "startFen": "rnbqk2r/pppppp1p/5npb/8/2B1P3/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 4 4",
+    "setupMoves": [
+      "e4",
+      "g6",
+      "Qf3",
+      "Bh6",
+      "Bc4",
+      "Nf6"
+    ],
     "moves": [
       "e5",
       "Ng8",
@@ -2152,6 +3352,14 @@
     "whiteElo": 978,
     "blackElo": 904,
     "startFen": "rnbqk1nr/pppp1ppp/8/4p2Q/2B5/4P3/PPPb1PPP/RNB1K1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e3",
+      "e5",
+      "Qh5",
+      "Bb4",
+      "Bc4",
+      "Bxd2+"
+    ],
     "moves": [
       "Bxd2",
       "Nf6",
@@ -2167,6 +3375,14 @@
     "whiteElo": 1386,
     "blackElo": 1350,
     "startFen": "rnbqkb1r/pppp1ppp/8/4N3/4n3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Nf3",
+      "Nf6",
+      "Nxe5",
+      "Nxe4"
+    ],
     "moves": [
       "Qf3",
       "d5",
@@ -2182,6 +3398,14 @@
     "whiteElo": 865,
     "blackElo": 793,
     "startFen": "rnbqkbnr/ppp2ppp/8/4p3/3pP3/1B6/PPPP1PPP/RNBQK1NR w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Bc4",
+      "d5",
+      "Bb3",
+      "d4"
+    ],
     "moves": [
       "Qf3",
       "h5",
@@ -2197,6 +3421,14 @@
     "whiteElo": 1805,
     "blackElo": 1426,
     "startFen": "rnbqkbnr/pp1p1p1p/4p3/2p3N1/4P3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "c5",
+      "Nf3",
+      "g5",
+      "Nxg5",
+      "e6"
+    ],
     "moves": [
       "Qh5",
       "Nf6",
@@ -2212,6 +3444,14 @@
     "whiteElo": 1426,
     "blackElo": 771,
     "startFen": "rnbqkb1r/pppp1ppp/8/4N3/4n3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Nf3",
+      "Nf6",
+      "Nxe5",
+      "Nxe4"
+    ],
     "moves": [
       "Qf3",
       "Nxf2",
@@ -2227,6 +3467,14 @@
     "whiteElo": 474,
     "blackElo": 523,
     "startFen": "rnbqkb1r/pp1ppppp/2p5/4N3/4n3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "c6",
+      "Nf3",
+      "Nf6",
+      "Ne5",
+      "Nxe4"
+    ],
     "moves": [
       "Bc4",
       "b5",
@@ -2242,6 +3490,14 @@
     "whiteElo": 794,
     "blackElo": 694,
     "startFen": "rnbqkb1r/pppp1ppp/8/4N3/4n3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 4",
+    "setupMoves": [
+      "e4",
+      "e5",
+      "Nf3",
+      "Nf6",
+      "Nxe5",
+      "Nxe4"
+    ],
     "moves": [
       "Qf3",
       "d5",

@@ -171,6 +171,23 @@
     return label + ": " + parts.join(", ");
   }
 
+  /* Plain movetext (no highlighting), used for the "setup moves" blindfold
+     context shown above the board on Easy/Medium/Hard. */
+  function formatMovetext(sans){
+    if (!sans || !sans.length) return "";
+    var html = "", moveNo = 1, i = 0;
+    while (i < sans.length){
+      html += moveNo + ". " + sans[i];
+      i++;
+      if (i < sans.length){
+        html += " " + sans[i] + " ";
+        i++;
+      }
+      moveNo++;
+    }
+    return html;
+  }
+
   function dataBaseUrl(){
     var cur = document.currentScript && document.currentScript.src;
     if (!cur){
@@ -190,6 +207,7 @@
       '<div class="fc-scene"><div class="fc-card" id="' + deckId + '-card">' +
         '<div class="fc-face" id="' + deckId + '-front">' +
           '<div class="fc-tag-row"><a class="fc-tag fc-site-link" id="' + deckId + '-site" target="_blank" rel="noopener"></a><span class="fc-turn-pill" id="' + deckId + '-turnpill"></span></div>' +
+          '<div class="fc-notation" id="' + deckId + '-notation" hidden></div>' +
           '<div class="fc-board-wrap" id="' + deckId + '-frontboard"></div>' +
           '<div class="fc-status" id="' + deckId + '-status">&nbsp;</div>' +
           '<div class="fc-answer-row">' +
@@ -273,6 +291,7 @@
     var answerInput = document.getElementById(deckId + "-answer");
     var feedbackEl = document.getElementById(deckId + "-feedback");
     var resetBtn = document.getElementById(deckId + "-reset");
+    var notationEl = document.getElementById(deckId + "-notation");
 
     pillEl.textContent = startColor + " to move";
 
@@ -285,7 +304,14 @@
       statusEl.textContent = startColor + " to move. Find the mate.";
       captionEl.textContent = "No board here — picture the position from the piece list, then type your mate below.";
       resetBtn.style.display = "none";
+      notationEl.hidden = true;
     } else {
+      if (entry.setupMoves && entry.setupMoves.length){
+        notationEl.hidden = false;
+        notationEl.textContent = formatMovetext(entry.setupMoves);
+      } else {
+        notationEl.hidden = true;
+      }
       (function(){
         var game = new Chess(startFen);
         var h = buildBoard(document.getElementById(deckId + "-frontboard"));
